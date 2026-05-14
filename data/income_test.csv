@@ -1,0 +1,2001 @@
+age,workclass,education,marital status,occupation,workinghours,sex,ability to speak english,gave birth this year
+61,private,18,Husband,Sales,45,Male,,
+62,private,21,Husband,Sales,60,Male,,
+75,governmental,24,Widowed,Education,56,Female,,
+20,private,16,Never married,"Farming, Fishing, Forestry",45,Male,,
+41,private,17,Husband,Production/Assembly,80,Male,,
+71,governmental,19,Husband,Management/Business,60,Male,,
+53,private,21,Never married,Transport,40,Male,,
+70,private,21,Husband,Transport,29,Male,,
+34,private,21,Divorced,Counseling/Mental Health Services,42,Female,,No
+38,private,21,Wife,Healthcare/Medical Services,24,Female,,No
+32,governmental,22,Wife,"Science, Engineering, Technology",40,Female,,No
+22,private,16,Never married,Management/Business,60,Male,,
+80,self employed,8,Husband,Service/Hospitality,35,Male,,
+36,private,23,Husband,Healthcare/Medical Services,55,Male,,
+28,private,16,Never married,Service/Hospitality,40,Female,,No
+22,governmental,19,Husband,Repair/Maintenance,52,Male,,
+44,governmental,22,Husband,Office/Administrative Support,60,Male,,
+57,governmental,18,Husband,Management/Business,50,Male,,
+44,private,19,Wife,Management/Business,50,Female,,No
+58,private,21,Wife,Sales,40,Female,1.0,
+28,self employed,22,Divorced,Management/Business,60,Female,,Yes
+55,governmental,21,Never married,Education,40,Female,,
+20,private,18,Never married,Repair/Maintenance,62,Male,,
+29,private,19,Wife,Healthcare/Medical Services,50,Female,,Yes
+31,private,21,Never married,"Science, Engineering, Technology",40,Male,,
+54,private,21,Wife,Healthcare/Medical Services,50,Female,,
+58,private,22,Wife,Entertainment,45,Female,,
+56,self employed,19,Wife,Sales,45,Female,,
+75,private,16,Husband,Production/Assembly,50,Male,,
+39,private,21,Husband,Management/Business,45,Male,,
+50,private,23,Wife,Healthcare/Medical Services,50,Female,,No
+48,private,21,Husband,Repair/Maintenance,56,Male,,
+44,private,13,Husband,Management/Business,45,Male,,
+27,private,24,Husband,Healthcare/Medical Services,80,Male,,
+56,governmental,22,Husband,"Science, Engineering, Technology",45,Male,,
+59,private,19,Husband,Sales,50,Male,,
+64,governmental,22,Husband,"Science, Engineering, Technology",45,Male,,
+52,private,21,Husband,Management/Business,60,Male,,
+52,self employed,18,Husband,Transport,70,Male,,
+27,private,21,Husband,Sales,40,Male,,
+35,private,20,Husband,Repair/Maintenance,50,Male,,
+35,private,22,Husband,Counseling/Mental Health Services,45,Male,,
+31,private,16,Divorced,Construction/Extraction,40,Male,,
+45,self employed,16,Husband,Production/Assembly,50,Male,,
+46,private,16,Husband,Management/Business,53,Male,,
+32,self employed,20,Husband,Sales,50,Male,,
+48,governmental,17,Husband,Protective Services,56,Male,,
+44,private,21,Divorced,"Science, Engineering, Technology",45,Male,,
+37,private,21,Divorced,Office/Administrative Support,40,Male,,
+25,private,23,Never married,Legal Services,50,Female,,No
+38,private,19,Husband,Repair/Maintenance,50,Male,,
+63,governmental,22,Divorced,Management/Business,50,Male,,
+32,private,21,Wife,Production/Assembly,40,Female,,No
+54,governmental,21,Husband,Education,55,Male,,
+66,private,21,Husband,Sales,45,Male,,
+44,private,23,Divorced,Healthcare/Medical Services,40,Female,,No
+61,private,20,Husband,Healthcare/Medical Services,50,Male,,
+23,governmental,21,Husband,Transport,50,Male,,
+62,private,19,Separated,"Science, Engineering, Technology",50,Male,,
+52,private,21,Husband,Sales,40,Male,,
+30,private,21,Never married,Finance/Accounting,40,Male,,
+69,private,21,Husband,Management/Business,50,Male,,
+53,self employed,24,Husband,Management/Business,40,Male,,
+49,private,21,Divorced,Sales,40,Female,,No
+47,private,19,Separated,Healthcare/Medical Services,45,Female,,No
+34,private,16,Husband,Sales,60,Male,,
+40,private,20,Divorced,Office/Administrative Support,40,Male,,
+57,self employed,16,Divorced,Service/Hospitality,40,Female,,
+35,governmental,21,Wife,Education,40,Female,,Yes
+51,governmental,21,Wife,Healthcare/Medical Services,18,Female,,
+29,governmental,21,Wife,Counseling/Mental Health Services,45,Female,,No
+59,governmental,19,Never married,Office/Administrative Support,40,Female,,
+38,private,21,Wife,Management/Business,40,Female,,No
+49,private,16,Husband,Production/Assembly,45,Male,,
+64,governmental,21,Wife,Education,3,Female,,
+25,private,21,Never married,Management/Business,30,Male,1.0,
+43,self employed,15,Divorced,Construction/Extraction,60,Male,,
+31,private,20,Separated,Repair/Maintenance,60,Male,,
+59,private,16,Husband,Transport,70,Male,,
+42,private,16,Husband,Transport,70,Male,,
+27,private,20,Wife,Healthcare/Medical Services,99,Female,,No
+30,self employed,21,Husband,Management/Business,60,Male,,
+63,private,23,Husband,Healthcare/Medical Services,39,Male,,
+33,private,21,Never married,Healthcare/Medical Services,44,Female,3.0,No
+26,private,23,Wife,Healthcare/Medical Services,40,Female,,No
+78,governmental,22,Wife,Education,40,Female,,
+22,private,16,Never married,Production/Assembly,48,Male,,
+63,governmental,22,Wife,Education,40,Female,,
+44,private,16,Divorced,Sales,46,Male,,
+38,private,21,Wife,Management/Business,40,Female,,No
+60,self employed,13,Husband,Service/Hospitality,55,Male,,
+35,private,21,Divorced,Finance/Accounting,40,Male,,
+55,private,21,Husband,Healthcare/Medical Services,40,Male,,
+56,private,13,Husband,Transport,43,Male,,
+59,private,13,Divorced,Transport,60,Male,,
+53,private,22,Husband,Office/Administrative Support,45,Male,,
+55,private,19,Husband,Production/Assembly,48,Male,,
+24,private,14,Husband,Construction/Extraction,40,Male,,
+28,governmental,22,Husband,Education,70,Male,,
+63,private,16,Husband,Sales,45,Male,,
+46,self employed,24,Husband,Healthcare/Medical Services,45,Male,,
+55,private,16,Wife,Sales,45,Female,,
+34,private,16,Husband,Construction/Extraction,50,Male,,
+32,private,19,Husband,"Science, Engineering, Technology",60,Male,,
+56,self employed,16,Widowed,Service/Hospitality,50,Male,,
+65,private,16,Husband,Service/Hospitality,4,Male,,
+46,private,21,Wife,Healthcare/Medical Services,72,Female,,No
+33,private,21,Wife,Service/Hospitality,40,Female,,No
+60,self employed,21,Husband,Management/Business,30,Male,,
+48,private,16,Husband,Sales,40,Male,,
+59,private,19,Husband,Management/Business,50,Male,,
+42,private,21,Husband,"Science, Engineering, Technology",40,Male,,
+20,self employed,18,Never married,Construction/Extraction,60,Male,,
+49,private,22,Husband,Sales,30,Male,4.0,
+33,governmental,22,Wife,Education,50,Female,,No
+28,governmental,21,Husband,"Science, Engineering, Technology",40,Male,,
+33,private,22,Husband,Management/Business,45,Male,,
+45,private,21,Separated,Education,40,Male,,
+32,private,22,Husband,Sales,42,Male,,
+29,governmental,22,Wife,Education,48,Female,,No
+28,governmental,21,Never married,Counseling/Mental Health Services,40,Female,,No
+54,private,16,Husband,Repair/Maintenance,45,Male,,
+41,governmental,22,Wife,Education,45,Female,,No
+32,private,17,Husband,Repair/Maintenance,55,Male,,
+36,private,21,Husband,Transport,50,Male,,
+26,private,18,Never married,Production/Assembly,44,Male,,
+54,governmental,21,Never married,Healthcare/Medical Services,40,Female,,
+36,private,21,Wife,Counseling/Mental Health Services,40,Female,,No
+34,governmental,19,Husband,Repair/Maintenance,50,Male,,
+27,private,21,Wife,Education,30,Female,,No
+54,self employed,19,Husband,Management/Business,50,Male,,
+55,private,22,Wife,Healthcare/Medical Services,50,Female,,
+64,private,21,Divorced,Counseling/Mental Health Services,45,Female,,
+18,private,16,Never married,Transport,40,Female,,No
+42,private,24,Husband,Healthcare/Medical Services,50,Male,,
+66,private,13,Divorced,Transport,45,Male,,
+57,governmental,22,Wife,Management/Business,50,Female,,
+38,private,22,Husband,"Science, Engineering, Technology",43,Male,1.0,
+48,private,19,Divorced,Management/Business,65,Male,,
+28,private,22,Husband,Finance/Accounting,50,Male,,
+22,private,19,Never married,Entertainment,12,Female,,No
+36,governmental,22,Never married,Education,60,Male,,
+48,private,17,Husband,Transport,70,Male,,
+57,private,22,Divorced,Office/Administrative Support,15,Male,,
+61,private,21,Widowed,Sales,50,Male,,
+65,private,21,Husband,Management/Business,52,Male,,
+25,private,16,Never married,Production/Assembly,40,Male,,
+48,private,16,Wife,Sales,30,Female,,No
+26,private,20,Never married,Management/Business,48,Male,,
+50,private,22,Husband,Healthcare/Medical Services,45,Male,,
+51,self employed,15,Husband,Construction/Extraction,40,Male,,
+41,governmental,20,Husband,Transport,50,Male,,
+51,governmental,23,Wife,Management/Business,60,Female,,
+27,self employed,16,Husband,Transport,50,Male,,
+56,private,21,Husband,Transport,40,Male,,
+24,private,16,Wife,Management/Business,50,Female,,No
+20,private,16,Never married,Production/Assembly,50,Male,,
+39,governmental,22,Separated,Counseling/Mental Health Services,30,Female,,No
+25,private,21,Wife,Finance/Accounting,40,Female,,No
+34,private,22,Husband,"Science, Engineering, Technology",40,Male,,
+46,private,21,Wife,Finance/Accounting,40,Female,1.0,No
+49,private,16,Separated,Production/Assembly,40,Male,,
+47,private,21,Husband,Transport,60,Male,,
+52,self employed,23,Husband,Sales,60,Male,,
+58,private,16,Husband,Repair/Maintenance,52,Male,,
+55,private,13,Husband,Construction/Extraction,50,Male,,
+34,private,22,Wife,Counseling/Mental Health Services,27,Female,,No
+41,private,20,Husband,Entertainment,40,Male,,
+88,private,20,Widowed,Sales,40,Female,,
+40,self employed,21,Never married,Sales,45,Male,,
+50,private,16,Husband,Transport,45,Male,,
+30,private,22,Never married,"Science, Engineering, Technology",40,Male,,
+38,private,21,Husband,Sales,45,Male,,
+48,private,22,Wife,Education,40,Female,,No
+60,private,21,Husband,Management/Business,60,Male,,
+48,governmental,23,Wife,Education,50,Female,,No
+38,governmental,16,Husband,Production/Assembly,40,Male,,
+21,private,16,Never married,Transport,25,Male,,
+39,private,22,Never married,"Science, Engineering, Technology",40,Male,,
+51,private,16,Husband,Production/Assembly,50,Male,,
+60,private,16,Wife,Finance/Accounting,60,Female,,
+51,private,19,Husband,Production/Assembly,50,Male,,
+32,private,21,Wife,Healthcare/Medical Services,47,Female,,No
+40,private,17,Husband,Construction/Extraction,50,Male,2.0,
+59,governmental,22,Wife,Management/Business,45,Female,,
+58,governmental,21,Wife,Education,60,Female,,
+25,private,21,Never married,Education,10,Male,1.0,
+67,governmental,21,Wife,Counseling/Mental Health Services,40,Female,,
+27,private,17,Never married,Sales,55,Female,,No
+47,private,21,Wife,Healthcare/Medical Services,45,Female,,No
+53,private,21,Divorced,Office/Administrative Support,40,Female,,
+59,governmental,22,Divorced,Education,60,Female,2.0,
+24,private,17,Husband,Construction/Extraction,40,Male,,
+67,private,23,Wife,Healthcare/Medical Services,50,Female,,
+44,private,22,Husband,Sales,50,Male,,
+17,private,16,Never married,Sales,12,Female,,No
+74,private,21,Husband,Management/Business,50,Male,,
+68,governmental,21,Wife,Education,20,Female,,
+35,private,22,Wife,Healthcare/Medical Services,40,Female,,No
+26,private,21,Never married,Entertainment,40,Male,,
+29,self employed,10,Husband,Construction/Extraction,60,Male,,
+41,private,21,Divorced,Management/Business,50,Male,,
+64,private,19,Divorced,Management/Business,60,Male,,
+43,private,21,Wife,Finance/Accounting,40,Female,,No
+28,private,21,Husband,Production/Assembly,48,Male,,
+65,self employed,17,Widowed,Healthcare/Medical Services,60,Male,,
+32,private,21,Husband,Management/Business,50,Male,,
+57,governmental,24,Husband,Management/Business,50,Male,,
+27,private,22,Never married,Education,30,Male,,
+49,private,21,Wife,Management/Business,45,Female,,No
+51,private,13,Husband,Construction/Extraction,45,Male,,
+31,private,21,Husband,Entertainment,40,Male,,
+46,governmental,21,Wife,Education,40,Female,,No
+46,private,1,Husband,Production/Assembly,60,Male,1.0,
+18,self employed,18,Never married,Service/Hospitality,8,Female,,No
+49,private,19,Wife,Office/Administrative Support,50,Female,,No
+46,private,21,Husband,Office/Administrative Support,50,Male,,
+65,private,21,Wife,Healthcare/Medical Services,32,Female,,
+60,self employed,16,Wife,Sales,50,Female,2.0,
+46,private,23,Husband,Management/Business,40,Male,,
+31,private,21,Wife,Management/Business,40,Female,,No
+34,private,21,Wife,Management/Business,45,Female,,No
+25,private,20,Never married,Healthcare/Medical Services,40,Female,,No
+58,private,21,Wife,Management/Business,50,Female,,
+44,governmental,22,Wife,Education,50,Female,,No
+64,private,24,Never married,Counseling/Mental Health Services,15,Female,,
+37,private,14,Divorced,Office/Administrative Support,60,Male,,
+57,private,16,Wife,Protective Services,45,Female,,
+41,private,17,Husband,Transport,50,Male,,
+53,private,19,Husband,Production/Assembly,60,Male,,
+48,private,22,Wife,Service/Hospitality,6,Female,,No
+44,private,16,Never married,Counseling/Mental Health Services,50,Male,4.0,
+39,private,21,Wife,Education,55,Female,,No
+31,private,24,Divorced,Education,50,Female,,No
+40,self employed,20,Husband,Construction/Extraction,45,Male,,
+24,private,21,Never married,"Science, Engineering, Technology",40,Female,,No
+23,private,20,Never married,Sales,27,Female,,No
+53,private,21,Wife,Counseling/Mental Health Services,40,Female,,
+31,private,21,Wife,Management/Business,40,Female,,No
+51,private,23,Husband,Counseling/Mental Health Services,40,Male,,
+60,private,15,Husband,Production/Assembly,60,Male,,
+48,self employed,19,Husband,Management/Business,70,Male,,
+36,private,21,Husband,Management/Business,50,Male,,
+55,governmental,22,Husband,Construction/Extraction,40,Male,,
+25,private,16,Divorced,Transport,50,Male,,
+33,private,21,Never married,"Science, Engineering, Technology",45,Male,,
+35,governmental,20,Husband,Construction/Extraction,40,Male,,
+21,private,16,Never married,Office/Administrative Support,50,Male,,
+55,private,19,Divorced,Healthcare/Medical Services,40,Female,,
+74,governmental,22,Divorced,Counseling/Mental Health Services,4,Female,,
+66,self employed,16,Wife,Management/Business,20,Female,,
+36,private,21,Wife,Management/Business,45,Female,,No
+48,private,22,Husband,"Science, Engineering, Technology",50,Male,,
+43,private,20,Husband,Healthcare/Medical Services,24,Male,,
+40,governmental,22,Wife,Management/Business,40,Female,,No
+67,private,16,Husband,Management/Business,50,Male,,
+77,private,22,Wife,Healthcare/Medical Services,35,Female,,
+37,governmental,21,Wife,Education,40,Female,,No
+39,private,21,Wife,Education,60,Female,1.0,No
+31,private,16,Never married,Service/Hospitality,40,Female,,No
+26,private,21,Never married,"Science, Engineering, Technology",40,Female,,No
+63,private,16,Never married,Transport,50,Male,,
+52,private,21,Husband,Counseling/Mental Health Services,40,Male,,
+35,private,23,Husband,Legal Services,40,Male,1.0,
+65,self employed,16,Divorced,Transport,60,Male,,
+17,private,14,Never married,Service/Hospitality,15,Male,,
+33,private,21,Never married,Healthcare/Medical Services,38,Female,,No
+31,self employed,23,Never married,Healthcare/Medical Services,65,Male,,
+56,private,22,Never married,Counseling/Mental Health Services,40,Male,,
+25,private,21,Wife,Counseling/Mental Health Services,37,Female,,No
+22,private,14,Never married,Transport,30,Male,,
+38,private,22,Husband,"Science, Engineering, Technology",40,Male,,
+49,private,18,Husband,Sales,45,Male,,
+47,private,20,Husband,Production/Assembly,45,Male,,
+51,private,16,Husband,Construction/Extraction,40,Male,,
+69,private,22,Wife,Healthcare/Medical Services,40,Female,,
+33,private,20,Wife,Healthcare/Medical Services,50,Female,,No
+44,governmental,21,Husband,Education,52,Male,,
+53,private,21,Never married,Sales,50,Male,,
+60,private,20,Wife,Education,50,Female,,
+56,self employed,16,Widowed,Entertainment,60,Female,,
+43,private,22,Wife,Counseling/Mental Health Services,40,Female,,No
+44,private,21,Wife,Management/Business,40,Female,,No
+47,private,21,Wife,Healthcare/Medical Services,30,Female,,No
+64,private,13,Husband,Transport,55,Male,,
+47,private,21,Husband,"Science, Engineering, Technology",50,Male,,
+53,private,22,Wife,Healthcare/Medical Services,37,Female,,
+63,private,21,Husband,Sales,35,Male,,
+67,private,21,Husband,Counseling/Mental Health Services,24,Male,,
+31,private,21,Husband,"Science, Engineering, Technology",43,Male,1.0,
+26,governmental,21,Never married,Management/Business,40,Female,,No
+70,private,23,Husband,Sales,50,Male,,
+42,governmental,22,Husband,Management/Business,50,Male,,
+48,private,16,Husband,Transport,50,Male,,
+56,private,23,Divorced,Legal Services,45,Female,,
+43,private,12,Husband,Repair/Maintenance,68,Male,,
+25,private,21,Husband,Sales,55,Male,,
+47,governmental,21,Wife,Education,40,Female,,No
+45,self employed,16,Wife,Service/Hospitality,40,Female,,No
+57,private,18,Husband,Production/Assembly,52,Male,,
+47,private,21,Husband,Management/Business,65,Male,3.0,
+25,private,21,Never married,Management/Business,30,Male,1.0,
+50,self employed,11,Wife,Service/Hospitality,10,Female,,No
+37,private,21,Husband,Sales,45,Male,,
+53,private,21,Husband,Education,40,Male,,
+67,private,21,Wife,Finance/Accounting,40,Female,,
+25,private,21,Never married,Construction/Extraction,35,Male,,
+51,private,19,Never married,Service/Hospitality,60,Male,,
+28,private,21,Never married,Construction/Extraction,30,Male,,
+66,private,16,Widowed,Transport,30,Male,,
+62,private,22,Husband,Management/Business,45,Male,,
+37,private,21,Husband,"Science, Engineering, Technology",55,Male,,
+17,private,13,Never married,Office/Administrative Support,12,Female,,No
+51,private,21,Husband,Sales,50,Male,,
+57,private,21,Wife,Healthcare/Medical Services,35,Female,,
+43,governmental,22,Wife,Education,40,Female,,No
+49,governmental,22,Wife,Education,40,Female,,No
+55,self employed,16,Husband,Transport,50,Male,,
+62,private,22,Husband,Counseling/Mental Health Services,50,Male,,
+47,private,21,Divorced,Healthcare/Medical Services,40,Female,,No
+61,self employed,23,Husband,Legal Services,45,Male,,
+41,private,21,Husband,Management/Business,40,Male,,
+46,private,21,Husband,Sales,60,Male,,
+74,governmental,24,Husband,Healthcare/Medical Services,40,Male,,
+29,private,21,Never married,Entertainment,60,Female,,No
+59,private,24,Wife,Finance/Accounting,45,Female,,
+72,self employed,21,Husband,Sales,40,Male,,
+46,private,21,Wife,Healthcare/Medical Services,72,Female,,No
+83,self employed,20,Divorced,Management/Business,45,Female,,
+38,private,21,Divorced,"Science, Engineering, Technology",45,Male,,
+53,governmental,22,Never married,Management/Business,50,Female,,
+23,private,21,Never married,Management/Business,55,Female,,No
+48,private,21,Wife,Healthcare/Medical Services,40,Female,,No
+58,private,13,Husband,Management/Business,60,Male,,
+25,governmental,23,Never married,Office/Administrative Support,55,Female,,No
+29,private,19,Husband,Production/Assembly,48,Male,,
+42,private,21,Husband,Finance/Accounting,50,Male,,
+34,private,22,Divorced,Finance/Accounting,40,Female,,No
+69,governmental,22,Wife,Education,30,Female,,
+41,governmental,21,Husband,"Science, Engineering, Technology",40,Male,,
+48,private,20,Divorced,Office/Administrative Support,40,Female,,No
+61,private,20,Husband,Healthcare/Medical Services,50,Male,,
+26,private,17,Husband,Sales,45,Male,,
+60,governmental,21,Widowed,Education,40,Female,,
+37,self employed,21,Wife,Entertainment,8,Female,,No
+35,governmental,21,Never married,Office/Administrative Support,40,Female,,No
+51,private,18,Husband,Sales,60,Male,,
+39,governmental,24,Husband,"Science, Engineering, Technology",80,Male,1.0,
+40,governmental,21,Divorced,Protective Services,40,Female,,No
+44,governmental,22,Divorced,Counseling/Mental Health Services,40,Female,,No
+35,governmental,23,Husband,Education,40,Male,,
+54,private,14,Divorced,Repair/Maintenance,45,Male,,
+24,private,21,Never married,Sales,62,Female,,No
+26,private,16,Husband,Service/Hospitality,45,Male,,
+58,private,24,Husband,Legal Services,45,Male,,
+62,private,22,Husband,Entertainment,50,Male,,
+28,private,21,Husband,Management/Business,55,Male,,
+45,private,18,Husband,Production/Assembly,45,Male,,
+58,private,20,Wife,Healthcare/Medical Services,40,Female,,
+35,governmental,22,Husband,Education,75,Male,,
+58,private,21,Separated,Office/Administrative Support,42,Female,,
+32,private,21,Husband,Transport,40,Male,,
+30,private,22,Never married,Counseling/Mental Health Services,36,Male,,
+58,private,21,Wife,Sales,65,Female,,
+23,private,21,Wife,Office/Administrative Support,40,Female,,Yes
+60,private,20,Divorced,"Science, Engineering, Technology",40,Female,,
+56,private,18,Husband,Production/Assembly,50,Male,,
+25,governmental,22,Never married,Education,50,Male,1.0,
+40,governmental,21,Wife,Entertainment,40,Female,,No
+51,self employed,23,Husband,Healthcare/Medical Services,40,Male,1.0,
+35,private,23,Wife,Healthcare/Medical Services,30,Female,,No
+40,governmental,16,Wife,Service/Hospitality,26,Female,,No
+58,private,21,Divorced,Repair/Maintenance,48,Male,,
+50,private,19,Husband,Service/Hospitality,60,Male,,
+47,private,21,Husband,"Science, Engineering, Technology",40,Male,,
+42,private,21,Husband,Sales,45,Male,,
+32,private,22,Never married,"Science, Engineering, Technology",40,Male,1.0,
+53,private,22,Husband,Counseling/Mental Health Services,50,Male,,
+59,private,19,Wife,Finance/Accounting,55,Female,,
+70,private,20,Wife,Healthcare/Medical Services,24,Female,,
+56,private,22,Divorced,Education,40,Female,,
+58,private,16,Husband,Sales,50,Male,,
+28,private,16,Wife,Office/Administrative Support,40,Female,,No
+27,private,20,Never married,Production/Assembly,45,Male,,
+49,private,21,Husband,Finance/Accounting,40,Male,,
+32,private,19,Wife,Service/Hospitality,35,Female,,No
+25,private,21,Never married,Management/Business,50,Male,,
+47,governmental,16,Husband,Protective Services,50,Male,,
+59,self employed,20,Divorced,Finance/Accounting,45,Female,,
+44,private,23,Wife,Legal Services,50,Female,,No
+49,governmental,23,Divorced,Education,40,Male,,
+41,private,16,Divorced,Healthcare/Medical Services,40,Female,,No
+19,private,16,Never married,Service/Hospitality,30,Female,,No
+28,private,16,Husband,Repair/Maintenance,45,Male,,
+21,private,19,Never married,Protective Services,16,Male,,
+46,private,22,Wife,Healthcare/Medical Services,48,Female,,No
+52,private,16,Husband,Management/Business,55,Male,,
+34,private,19,Never married,Sales,72,Female,,No
+27,private,14,Never married,Service/Hospitality,30,Male,,
+51,private,21,Wife,Healthcare/Medical Services,40,Female,,
+48,private,19,Separated,Healthcare/Medical Services,40,Female,,No
+40,private,19,Never married,Sales,40,Male,,
+53,governmental,22,Divorced,Management/Business,44,Female,,
+24,private,21,Never married,"Science, Engineering, Technology",40,Female,,No
+52,private,16,Husband,Construction/Extraction,55,Male,,
+65,self employed,21,Husband,Management/Business,40,Male,,
+66,private,21,Wife,Healthcare/Medical Services,35,Female,,
+66,governmental,21,Divorced,Management/Business,30,Female,,
+28,private,19,Never married,Office/Administrative Support,40,Female,,No
+46,private,21,Divorced,Healthcare/Medical Services,45,Female,,No
+55,private,17,Husband,Repair/Maintenance,50,Male,,
+25,private,16,Never married,Office/Administrative Support,40,Female,,No
+61,private,23,Wife,Education,2,Female,,
+35,private,17,Separated,Transport,45,Male,,
+34,private,21,Never married,Sales,50,Male,1.0,
+54,self employed,21,Husband,Management/Business,55,Male,,
+34,private,11,Divorced,Transport,47,Male,,
+45,private,21,Wife,Office/Administrative Support,40,Female,,No
+44,governmental,19,Divorced,Healthcare/Medical Services,47,Male,3.0,
+56,private,22,Widowed,Counseling/Mental Health Services,40,Female,,
+53,governmental,22,Never married,Management/Business,50,Female,,
+45,self employed,21,Wife,Management/Business,50,Female,,No
+56,private,21,Husband,"Science, Engineering, Technology",40,Male,,
+42,private,21,Husband,Sales,48,Male,,
+40,governmental,22,Wife,Education,40,Female,,No
+44,self employed,20,Wife,Finance/Accounting,90,Female,,No
+50,self employed,20,Husband,Transport,45,Male,2.0,
+62,private,19,Divorced,Transport,50,Male,,
+28,private,20,Wife,Healthcare/Medical Services,40,Female,,Yes
+32,private,19,Husband,Sales,60,Male,,
+37,governmental,22,Wife,Counseling/Mental Health Services,40,Female,,No
+46,private,16,Divorced,Construction/Extraction,50,Male,,
+52,governmental,24,Divorced,Management/Business,55,Female,,
+67,private,16,Husband,Construction/Extraction,45,Male,,
+65,private,22,Divorced,Education,40,Female,,
+30,private,21,Never married,Education,40,Female,,No
+68,governmental,22,Husband,Education,40,Male,,
+53,private,20,Wife,Office/Administrative Support,50,Female,,
+66,governmental,22,Never married,Legal Services,45,Female,,
+21,private,16,Never married,Transport,60,Male,,
+54,governmental,24,Divorced,Education,60,Male,,
+46,private,14,Separated,Service/Hospitality,40,Female,,No
+62,governmental,21,Never married,Education,20,Male,,
+72,private,18,Husband,"Science, Engineering, Technology",50,Male,2.0,
+60,self employed,13,Husband,Service/Hospitality,55,Male,,
+36,private,21,Wife,Office/Administrative Support,40,Female,,No
+36,governmental,24,Wife,Protective Services,40,Female,,No
+74,governmental,24,Husband,Healthcare/Medical Services,40,Male,,
+64,private,16,Divorced,Repair/Maintenance,40,Male,,
+48,private,21,Separated,Office/Administrative Support,40,Female,,No
+56,private,16,Husband,Sales,45,Male,,
+41,private,21,Wife,Healthcare/Medical Services,24,Female,,No
+69,private,23,Husband,Healthcare/Medical Services,40,Male,,
+61,private,19,Divorced,Repair/Maintenance,58,Male,,
+22,private,21,Never married,Healthcare/Medical Services,40,Female,,No
+62,private,11,Divorced,Transport,80,Male,,
+40,private,21,Wife,Finance/Accounting,28,Female,,No
+25,private,21,Husband,"Science, Engineering, Technology",45,Male,,
+44,self employed,20,Wife,Sales,50,Female,,No
+64,self employed,21,Husband,Sales,55,Male,,
+49,private,16,Husband,Production/Assembly,50,Male,,
+25,self employed,21,Never married,Education,30,Male,,
+87,self employed,21,Widowed,Entertainment,10,Female,1.0,
+50,private,16,Wife,Office/Administrative Support,58,Female,,No
+60,private,15,Husband,Repair/Maintenance,48,Male,,
+40,governmental,22,Wife,Office/Administrative Support,40,Female,,No
+35,private,21,Husband,"Science, Engineering, Technology",50,Male,,
+45,governmental,21,Wife,Education,28,Female,,No
+52,self employed,22,Wife,"Farming, Fishing, Forestry",15,Female,,
+44,private,16,Never married,Service/Hospitality,45,Male,,
+38,private,21,Husband,Management/Business,80,Male,1.0,
+54,governmental,21,Never married,Management/Business,40,Female,,
+51,private,16,Divorced,Production/Assembly,50,Male,,
+42,private,20,Husband,Service/Hospitality,40,Male,,
+42,governmental,21,Wife,Office/Administrative Support,50,Female,,No
+26,self employed,19,Divorced,Production/Assembly,50,Female,,No
+55,private,21,Husband,Management/Business,50,Male,,
+51,self employed,16,Husband,Management/Business,75,Male,,
+32,private,12,Divorced,Construction/Extraction,8,Male,,
+49,governmental,23,Husband,Education,40,Male,,
+41,private,20,Wife,Education,90,Female,,No
+79,private,21,Divorced,Management/Business,40,Male,,
+51,private,19,Never married,Office/Administrative Support,53,Male,,
+30,private,22,Wife,Healthcare/Medical Services,36,Female,,No
+31,private,21,Husband,"Science, Engineering, Technology",50,Male,,
+63,self employed,10,Separated,Repair/Maintenance,80,Male,,
+35,private,21,Husband,Management/Business,40,Male,,
+32,private,19,Never married,Production/Assembly,56,Female,,No
+22,private,21,Never married,Education,5,Male,,
+59,governmental,17,Divorced,Office/Administrative Support,87,Male,,
+46,private,21,Wife,Finance/Accounting,40,Female,,No
+42,private,17,Wife,Service/Hospitality,50,Female,,No
+55,private,21,Husband,Management/Business,45,Male,,
+35,private,16,Never married,Transport,40,Male,,
+24,private,17,Never married,Production/Assembly,60,Male,,
+56,private,21,Husband,"Science, Engineering, Technology",40,Male,,
+54,private,20,Husband,Transport,60,Male,,
+36,private,20,Wife,Production/Assembly,40,Female,,No
+75,self employed,21,Husband,Management/Business,10,Male,,
+58,self employed,21,Separated,Office/Administrative Support,50,Female,,
+50,private,21,Husband,Transport,40,Male,,
+46,self employed,22,Wife,Counseling/Mental Health Services,46,Female,,No
+26,private,19,Wife,Sales,50,Female,,No
+25,private,21,Never married,"Science, Engineering, Technology",60,Male,,
+56,private,15,Husband,Transport,70,Male,,
+32,private,17,Husband,Sales,45,Male,,
+57,self employed,21,Wife,Entertainment,40,Female,,
+56,private,21,Divorced,Sales,50,Male,,
+29,private,21,Wife,Management/Business,45,Female,,No
+42,governmental,21,Divorced,Office/Administrative Support,40,Female,,No
+59,private,16,Divorced,Repair/Maintenance,50,Male,,
+63,governmental,21,Wife,Education,60,Female,,
+48,private,21,Husband,Finance/Accounting,45,Male,,
+44,governmental,21,Husband,Management/Business,40,Male,,
+53,private,21,Widowed,Sales,80,Female,,
+54,self employed,22,Wife,Entertainment,16,Female,,
+50,private,20,Husband,Construction/Extraction,50,Male,,
+28,private,21,Husband,Office/Administrative Support,40,Male,,
+42,private,21,Never married,Management/Business,40,Male,,
+59,governmental,21,Wife,Education,40,Female,,
+33,private,21,Husband,Management/Business,60,Male,,
+42,private,21,Wife,Office/Administrative Support,40,Female,,No
+67,private,1,Husband,Construction/Extraction,10,Male,,
+56,governmental,21,Husband,Education,48,Male,,
+32,private,21,Never married,Sales,30,Female,,No
+54,private,19,Husband,Management/Business,45,Male,,
+60,self employed,22,Wife,Education,45,Female,,
+71,governmental,22,Widowed,Healthcare/Medical Services,40,Female,,
+53,governmental,22,Wife,Management/Business,50,Female,,
+24,private,21,Never married,Entertainment,30,Female,,No
+70,private,22,Widowed,Sales,40,Male,,
+56,private,21,Husband,Service/Hospitality,45,Male,,
+60,private,22,Wife,Healthcare/Medical Services,38,Female,,
+67,self employed,21,Wife,Office/Administrative Support,30,Female,,
+48,private,18,Never married,Sales,50,Male,,
+41,governmental,21,Wife,Education,40,Female,,No
+25,private,21,Husband,Education,50,Male,,
+26,private,20,Never married,Production/Assembly,50,Male,,
+21,private,16,Never married,Service/Hospitality,45,Male,,
+43,private,18,Divorced,Transport,52,Male,,
+49,private,23,Wife,Healthcare/Medical Services,45,Female,,No
+63,private,22,Never married,Healthcare/Medical Services,48,Female,,
+54,private,21,Never married,Management/Business,40,Female,,
+46,self employed,18,Never married,Office/Administrative Support,50,Female,,No
+61,governmental,22,Wife,Management/Business,45,Female,,
+48,private,19,Husband,Management/Business,50,Male,,
+71,private,21,Husband,Management/Business,40,Male,,
+73,governmental,24,Husband,Entertainment,2,Male,,
+59,self employed,21,Divorced,Finance/Accounting,55,Female,,
+27,governmental,21,Never married,Education,50,Male,,
+61,private,24,Divorced,Management/Business,50,Female,,
+57,governmental,20,Divorced,Office/Administrative Support,40,Female,,
+40,private,20,Husband,Production/Assembly,60,Male,,
+77,self employed,23,Husband,Finance/Accounting,30,Male,,
+51,private,15,Husband,Transport,45,Male,,
+22,private,19,Never married,"Farming, Fishing, Forestry",40,Male,,
+55,governmental,22,Husband,Management/Business,40,Male,,
+48,private,18,Separated,Management/Business,49,Male,,
+21,private,21,Never married,Office/Administrative Support,38,Male,,
+41,private,20,Husband,Production/Assembly,40,Male,,
+52,private,21,Never married,Management/Business,10,Male,,
+20,private,19,Never married,Management/Business,50,Female,,No
+27,private,19,Wife,Finance/Accounting,52,Female,,No
+69,private,21,Husband,Sales,60,Male,,
+66,private,16,Divorced,Office/Administrative Support,40,Female,,
+27,private,21,Never married,"Science, Engineering, Technology",44,Male,,
+51,governmental,22,Wife,Education,22,Female,,
+51,governmental,16,Husband,Management/Business,50,Male,,
+48,governmental,22,Husband,Military Services,50,Male,,
+49,private,24,Divorced,Healthcare/Medical Services,50,Female,,No
+48,private,22,Divorced,Sales,36,Male,,
+51,private,16,Husband,Management/Business,45,Male,,
+41,governmental,21,Wife,Finance/Accounting,40,Female,,No
+69,private,21,Husband,Management/Business,50,Male,,
+30,self employed,23,Wife,Healthcare/Medical Services,40,Female,,No
+53,private,21,Wife,Management/Business,38,Female,,
+44,private,22,Wife,Healthcare/Medical Services,40,Female,,No
+42,private,16,Husband,Transport,50,Male,,
+63,self employed,21,Husband,Legal Services,40,Male,,
+59,governmental,22,Husband,Management/Business,45,Male,,
+43,governmental,24,Wife,Management/Business,80,Female,1.0,No
+30,private,20,Husband,Sales,45,Male,1.0,
+30,private,21,Husband,Healthcare/Medical Services,40,Male,,
+41,private,21,Never married,Transport,38,Female,,No
+25,private,21,Never married,Service/Hospitality,40,Female,,No
+45,private,21,Husband,Management/Business,50,Male,,
+65,self employed,16,Never married,Transport,20,Male,,
+62,private,21,Husband,Finance/Accounting,55,Male,,
+19,private,18,Separated,Management/Business,50,Female,,No
+51,private,16,Divorced,Sales,40,Female,,
+59,governmental,20,Wife,Finance/Accounting,40,Female,,
+27,governmental,20,Husband,Military Services,62,Male,,
+35,private,16,Never married,Production/Assembly,60,Female,,No
+68,self employed,22,Wife,Counseling/Mental Health Services,5,Female,,
+48,private,17,Never married,Production/Assembly,40,Male,,
+56,private,16,Husband,Repair/Maintenance,40,Male,,
+57,private,16,Husband,Production/Assembly,50,Male,,
+49,private,20,Wife,Healthcare/Medical Services,12,Female,,No
+61,private,20,Husband,Management/Business,55,Male,,
+54,private,22,Divorced,Management/Business,45,Female,,
+64,private,21,Husband,Sales,80,Male,,
+33,private,20,Never married,Service/Hospitality,60,Female,2.0,No
+44,private,21,Never married,Sales,42,Male,,
+44,governmental,22,Never married,Entertainment,50,Female,1.0,No
+47,private,21,Divorced,Education,40,Female,,No
+44,private,20,Husband,Production/Assembly,60,Male,,
+56,private,22,Husband,Management/Business,55,Male,1.0,
+66,private,20,Widowed,Management/Business,50,Female,,
+67,private,21,Husband,"Science, Engineering, Technology",60,Male,,
+28,private,20,Wife,Finance/Accounting,45,Female,,No
+60,private,17,Husband,Repair/Maintenance,45,Male,,
+66,governmental,22,Husband,Management/Business,40,Male,,
+32,governmental,24,Never married,Education,50,Male,,
+43,private,16,Wife,Healthcare/Medical Services,40,Female,,No
+32,private,22,Wife,Counseling/Mental Health Services,40,Female,,No
+54,governmental,21,Husband,Management/Business,40,Male,,
+42,private,14,Separated,Production/Assembly,40,Female,,No
+48,self employed,21,Husband,Sales,75,Male,,
+63,private,22,Husband,Management/Business,45,Male,,
+63,governmental,21,Wife,Education,7,Female,,
+64,self employed,21,Divorced,Office/Administrative Support,34,Female,,
+45,private,16,Divorced,Transport,36,Female,,No
+57,governmental,21,Wife,Education,40,Female,,
+41,governmental,21,Wife,Finance/Accounting,40,Female,,No
+44,private,21,Divorced,Healthcare/Medical Services,37,Female,,No
+58,private,19,Wife,Sales,60,Female,,
+51,private,16,Divorced,Production/Assembly,45,Male,,
+23,private,21,Never married,Healthcare/Medical Services,40,Male,,
+40,private,22,Divorced,Service/Hospitality,75,Female,,No
+36,governmental,22,Wife,Education,50,Female,,Yes
+32,private,22,Never married,Healthcare/Medical Services,50,Male,,
+50,governmental,21,Wife,Education,50,Female,,No
+74,self employed,19,Widowed,Management/Business,60,Female,,
+46,private,18,Divorced,Healthcare/Medical Services,64,Female,,No
+31,governmental,21,Divorced,Service/Hospitality,40,Male,,
+65,self employed,16,Husband,Production/Assembly,84,Male,,
+58,private,16,Never married,Transport,50,Male,,
+43,private,10,Divorced,Production/Assembly,63,Male,,
+34,governmental,22,Wife,Education,40,Female,,No
+53,private,16,Divorced,Repair/Maintenance,45,Male,,
+35,private,23,Husband,Legal Services,40,Male,1.0,
+28,governmental,19,Wife,Transport,70,Female,,No
+35,private,19,Husband,Office/Administrative Support,50,Male,,
+46,private,22,Divorced,Education,40,Female,,No
+37,private,19,Husband,Protective Services,50,Male,,
+38,private,19,Never married,Healthcare/Medical Services,48,Female,,No
+26,governmental,21,Wife,Military Services,45,Female,,No
+48,private,21,Never married,Healthcare/Medical Services,42,Female,,No
+61,private,16,Husband,Sales,50,Male,,
+52,governmental,18,Wife,Management/Business,50,Female,,
+28,private,21,Never married,Counseling/Mental Health Services,40,Male,,
+34,private,21,Never married,Management/Business,40,Male,,
+30,private,19,Never married,Management/Business,50,Female,,No
+48,private,22,Divorced,Management/Business,50,Male,,
+36,private,16,Never married,Transport,35,Male,,
+52,private,20,Wife,Management/Business,40,Female,,
+36,private,21,Husband,Management/Business,60,Male,,
+77,private,16,Divorced,Office/Administrative Support,40,Male,,
+38,private,22,Wife,Education,45,Female,,No
+36,private,18,Husband,Production/Assembly,80,Male,,
+60,private,16,Separated,Transport,47,Male,,
+43,private,14,Divorced,Service/Hospitality,88,Male,,
+47,private,21,Husband,Repair/Maintenance,40,Male,,
+53,private,16,Husband,Transport,30,Male,,
+26,private,16,Never married,Construction/Extraction,50,Male,,
+43,private,23,Husband,Legal Services,50,Male,,
+30,private,21,Husband,Repair/Maintenance,40,Male,,
+50,governmental,20,Wife,Office/Administrative Support,60,Female,,No
+25,private,21,Never married,Management/Business,30,Male,1.0,
+48,private,20,Divorced,Protective Services,32,Male,,
+25,private,20,Wife,Service/Hospitality,35,Female,,No
+33,private,22,Husband,Management/Business,40,Male,,
+23,governmental,18,Never married,Healthcare/Medical Services,40,Female,,Yes
+43,private,21,Wife,Office/Administrative Support,40,Female,,No
+41,private,21,Husband,Protective Services,40,Male,,
+32,governmental,20,Husband,Protective Services,72,Male,,
+29,governmental,21,Husband,Education,45,Male,,
+52,private,17,Never married,Service/Hospitality,45,Male,,
+65,governmental,22,Wife,Education,40,Female,,
+35,private,14,Never married,Service/Hospitality,40,Female,,No
+30,private,19,Never married,Education,45,Male,,
+29,private,21,Husband,"Science, Engineering, Technology",40,Male,2.0,
+66,private,22,Divorced,Management/Business,40,Male,,
+31,governmental,21,Divorced,Education,40,Female,,No
+28,private,21,Wife,Service/Hospitality,35,Female,,No
+38,private,24,Wife,Healthcare/Medical Services,50,Female,,No
+49,private,18,Husband,Construction/Extraction,45,Male,,
+50,private,21,Husband,Sales,50,Male,,
+52,governmental,19,Never married,Management/Business,80,Female,,
+48,private,20,Divorced,Transport,61,Male,,
+52,governmental,24,Wife,Education,50,Female,,
+31,private,21,Wife,Healthcare/Medical Services,40,Female,,Yes
+64,private,16,Husband,Repair/Maintenance,54,Male,,
+45,private,17,Never married,Transport,25,Male,,
+60,private,21,Husband,Production/Assembly,48,Male,,
+42,private,22,Husband,Management/Business,55,Male,,
+58,private,21,Husband,"Science, Engineering, Technology",40,Male,1.0,
+25,private,21,Never married,Healthcare/Medical Services,36,Female,,No
+53,private,20,Divorced,Repair/Maintenance,50,Male,,
+56,governmental,22,Husband,Education,60,Male,,
+53,private,16,Divorced,Production/Assembly,54,Male,,
+40,private,16,Never married,Production/Assembly,48,Female,,No
+50,private,19,Wife,Protective Services,52,Female,,No
+56,private,21,Divorced,Education,45,Female,,
+45,private,16,Husband,Production/Assembly,40,Male,,
+24,private,2,Never married,Repair/Maintenance,50,Male,,
+39,governmental,22,Never married,Sales,40,Female,,No
+60,self employed,16,Husband,Management/Business,50,Male,,
+64,self employed,21,Husband,Construction/Extraction,35,Male,,
+54,private,16,Husband,Repair/Maintenance,45,Male,,
+25,private,13,Wife,Office/Administrative Support,55,Female,,No
+50,private,16,Husband,Transport,55,Male,,
+49,private,21,Wife,Office/Administrative Support,40,Female,,No
+43,governmental,19,Husband,Transport,60,Male,,
+47,governmental,16,Divorced,Protective Services,50,Male,,
+29,private,19,Never married,Production/Assembly,50,Male,,
+40,private,21,Husband,Management/Business,45,Male,,
+55,self employed,18,Wife,Service/Hospitality,45,Female,,
+64,private,21,Wife,Management/Business,50,Female,,
+37,private,19,Never married,Repair/Maintenance,60,Male,,
+60,private,19,Husband,Sales,50,Male,,
+54,self employed,18,Divorced,Service/Hospitality,60,Male,,
+39,governmental,17,Husband,Management/Business,50,Male,,
+60,governmental,20,Husband,Healthcare/Medical Services,40,Male,,
+57,private,21,Divorced,"Science, Engineering, Technology",40,Male,,
+30,self employed,21,Divorced,Finance/Accounting,60,Male,,
+66,private,19,Wife,Office/Administrative Support,50,Female,,
+48,private,21,Husband,Sales,50,Male,,
+56,private,17,Divorced,Transport,30,Female,1.0,
+38,private,22,Wife,Counseling/Mental Health Services,40,Female,1.0,No
+41,private,21,Wife,Sales,40,Female,,No
+24,private,16,Never married,Service/Hospitality,50,Male,3.0,
+19,private,19,Never married,Education,18,Female,,No
+41,governmental,21,Husband,Education,50,Male,,
+34,private,19,Husband,Repair/Maintenance,45,Male,,
+24,governmental,21,Never married,Education,40,Female,,No
+26,private,19,Never married,Production/Assembly,80,Male,,
+38,self employed,16,Divorced,Repair/Maintenance,50,Male,,
+37,private,16,Husband,Sales,55,Male,,
+40,private,20,Husband,Construction/Extraction,60,Male,,
+55,governmental,22,Wife,Management/Business,45,Female,,
+25,private,19,Wife,Transport,25,Female,,Yes
+31,private,16,Wife,Management/Business,50,Female,,No
+55,private,23,Widowed,Healthcare/Medical Services,50,Female,,
+48,private,21,Husband,Finance/Accounting,50,Male,,
+48,governmental,19,Husband,Protective Services,72,Male,,
+28,private,19,Husband,Construction/Extraction,45,Male,,
+34,private,22,Wife,Office/Administrative Support,50,Female,1.0,No
+26,private,21,Wife,Finance/Accounting,40,Female,,No
+27,private,22,Wife,Office/Administrative Support,40,Female,1.0,No
+48,private,21,Wife,Office/Administrative Support,40,Female,,No
+38,private,23,Husband,Healthcare/Medical Services,50,Male,,
+53,private,16,Husband,Repair/Maintenance,65,Male,,
+53,private,16,Husband,Management/Business,50,Male,,
+33,private,23,Never married,Healthcare/Medical Services,50,Female,,No
+27,private,21,Never married,Office/Administrative Support,40,Female,1.0,No
+32,governmental,22,Wife,Management/Business,40,Female,,No
+28,private,21,Husband,Management/Business,40,Male,,
+23,private,21,Never married,Entertainment,30,Male,,
+45,governmental,22,Divorced,Education,50,Female,,No
+47,private,16,Divorced,Transport,84,Female,,No
+33,self employed,16,Wife,Service/Hospitality,50,Female,,No
+59,private,19,Divorced,Repair/Maintenance,45,Male,,
+53,private,22,Husband,Management/Business,43,Male,,
+62,governmental,23,Husband,Management/Business,40,Male,,
+20,private,19,Never married,Production/Assembly,40,Female,,No
+69,self employed,23,Husband,Legal Services,30,Male,,
+46,governmental,22,Husband,Military Services,50,Male,,
+37,private,16,Divorced,Transport,54,Male,,
+44,governmental,21,Never married,Education,45,Female,,No
+32,private,21,Husband,"Science, Engineering, Technology",40,Male,,
+48,governmental,21,Husband,Education,50,Male,,
+58,private,21,Never married,Office/Administrative Support,38,Male,,
+37,governmental,21,Divorced,Education,40,Female,,No
+50,governmental,15,Husband,Service/Hospitality,40,Male,,
+58,private,21,Wife,Healthcare/Medical Services,32,Female,,
+85,private,23,Husband,Healthcare/Medical Services,50,Male,,
+28,governmental,21,Wife,Office/Administrative Support,40,Female,,No
+47,private,19,Divorced,Sales,50,Male,,
+49,private,20,Husband,"Science, Engineering, Technology",45,Male,,
+49,private,22,Wife,Finance/Accounting,50,Female,,No
+43,private,22,Wife,Healthcare/Medical Services,40,Female,,No
+71,self employed,21,Wife,Office/Administrative Support,32,Female,,
+25,private,21,Never married,"Science, Engineering, Technology",40,Female,,No
+62,governmental,12,Husband,Service/Hospitality,40,Male,,
+29,private,12,Never married,Construction/Extraction,40,Male,,
+60,private,21,Never married,Management/Business,40,Male,,
+53,self employed,21,Wife,Legal Services,40,Female,,
+38,self employed,21,Wife,Management/Business,20,Female,,No
+55,private,21,Husband,"Science, Engineering, Technology",60,Male,,
+40,private,21,Husband,Sales,55,Male,,
+30,self employed,21,Husband,Management/Business,60,Male,,
+29,private,21,Husband,Sales,45,Male,,
+60,private,21,Never married,Healthcare/Medical Services,32,Female,,
+65,private,19,Husband,Management/Business,50,Male,,
+21,private,20,Never married,Service/Hospitality,40,Male,,
+34,private,21,Wife,"Science, Engineering, Technology",50,Female,,No
+57,private,21,Husband,Management/Business,42,Male,,
+24,governmental,21,Never married,Management/Business,42,Male,,
+52,private,21,Husband,Transport,40,Male,,
+55,governmental,22,Wife,Education,50,Female,,
+61,private,18,Husband,Production/Assembly,50,Male,,
+29,private,21,Never married,Entertainment,60,Female,,No
+50,private,16,Husband,Construction/Extraction,50,Male,,
+61,private,11,Husband,Production/Assembly,40,Male,,
+29,private,24,Wife,Healthcare/Medical Services,50,Female,,No
+47,self employed,18,Husband,Construction/Extraction,45,Male,,
+37,private,21,Husband,"Science, Engineering, Technology",60,Male,,
+25,private,21,Never married,Entertainment,45,Female,,No
+50,private,18,Husband,Transport,47,Male,,
+20,private,16,Never married,Production/Assembly,40,Male,,
+39,governmental,19,Husband,Office/Administrative Support,45,Male,,
+24,private,18,Never married,Management/Business,45,Female,,Yes
+21,private,19,Never married,Management/Business,30,Female,,No
+57,self employed,21,Husband,Office/Administrative Support,25,Male,,
+52,private,21,Wife,Management/Business,40,Female,,
+26,governmental,9,Never married,Healthcare/Medical Services,50,Female,1.0,No
+34,private,24,Never married,"Science, Engineering, Technology",51,Male,,
+66,private,16,Separated,"Farming, Fishing, Forestry",45,Male,,
+35,private,16,Husband,Service/Hospitality,45,Male,2.0,
+48,self employed,21,Husband,Management/Business,50,Male,,
+67,private,21,Husband,"Science, Engineering, Technology",45,Male,,
+34,private,22,Wife,Education,45,Female,,No
+76,governmental,16,Divorced,Service/Hospitality,50,Male,,
+22,private,19,Never married,Production/Assembly,60,Male,,
+47,private,21,Wife,Education,45,Female,1.0,No
+52,private,19,Widowed,Production/Assembly,90,Male,,
+36,private,19,Husband,"Science, Engineering, Technology",50,Male,,
+25,private,22,Never married,Sales,30,Male,,
+20,private,16,Never married,Production/Assembly,40,Female,,No
+51,self employed,23,Husband,Healthcare/Medical Services,36,Male,,
+47,private,19,Husband,Construction/Extraction,50,Male,,
+59,governmental,22,Divorced,Management/Business,40,Male,,
+50,private,16,Wife,Office/Administrative Support,50,Female,,No
+42,private,10,Separated,Production/Assembly,45,Male,,
+23,private,21,Never married,Sales,20,Female,,No
+55,governmental,21,Wife,"Science, Engineering, Technology",40,Female,,
+30,private,21,Never married,"Science, Engineering, Technology",40,Male,,
+40,self employed,21,Wife,Sales,40,Female,,No
+73,private,14,Widowed,Healthcare/Medical Services,80,Female,,
+57,self employed,15,Husband,Transport,99,Male,,
+50,private,23,Divorced,Management/Business,40,Female,,No
+35,private,1,Husband,Service/Hospitality,80,Male,3.0,
+23,private,20,Never married,Transport,45,Male,,
+63,private,21,Never married,Healthcare/Medical Services,40,Female,,
+45,private,24,Wife,Healthcare/Medical Services,50,Female,1.0,No
+57,private,21,Husband,Finance/Accounting,50,Male,,
+74,governmental,22,Divorced,Counseling/Mental Health Services,4,Female,,
+49,private,13,Wife,Management/Business,42,Female,,No
+49,private,22,Wife,Office/Administrative Support,40,Female,,No
+56,private,23,Divorced,Healthcare/Medical Services,40,Female,,
+35,private,18,Husband,Repair/Maintenance,50,Male,,
+62,private,21,Divorced,Sales,45,Male,,
+36,private,16,Divorced,Construction/Extraction,50,Male,,
+73,governmental,24,Husband,Education,40,Male,,
+26,private,21,Wife,Office/Administrative Support,40,Female,,No
+41,governmental,20,Divorced,Protective Services,48,Female,,No
+58,private,21,Husband,Management/Business,50,Male,,
+43,governmental,22,Wife,Education,60,Female,,No
+44,private,16,Wife,Management/Business,50,Female,,No
+48,governmental,24,Husband,"Science, Engineering, Technology",40,Male,,
+62,private,22,Husband,Counseling/Mental Health Services,50,Male,,
+24,private,20,Husband,Management/Business,50,Male,,
+61,private,19,Divorced,Management/Business,45,Female,,
+27,private,21,Wife,Office/Administrative Support,45,Female,,No
+73,private,16,Divorced,Service/Hospitality,6,Male,,
+32,private,19,Husband,Construction/Extraction,45,Male,,
+50,governmental,16,Never married,Construction/Extraction,40,Female,,No
+44,governmental,21,Wife,Education,45,Female,,No
+36,private,21,Husband,"Science, Engineering, Technology",40,Male,,
+39,governmental,21,Wife,Counseling/Mental Health Services,40,Female,,No
+49,private,22,Wife,Management/Business,30,Female,,No
+47,private,21,Husband,Management/Business,40,Male,,
+49,private,21,Husband,"Science, Engineering, Technology",40,Male,,
+30,private,21,Never married,Office/Administrative Support,45,Female,,No
+41,private,20,Never married,Sales,50,Male,,
+51,private,19,Husband,Production/Assembly,55,Male,,
+61,governmental,22,Wife,Education,40,Female,,
+18,private,18,Never married,Office/Administrative Support,32,Female,,No
+57,self employed,21,Husband,Sales,45,Male,,
+35,governmental,22,Never married,Education,50,Female,,No
+44,governmental,21,Divorced,Repair/Maintenance,45,Male,,
+51,self employed,23,Divorced,Healthcare/Medical Services,70,Male,,
+77,private,16,Widowed,Finance/Accounting,8,Female,,
+32,governmental,20,Wife,Healthcare/Medical Services,26,Female,,No
+41,self employed,20,Husband,Management/Business,45,Male,,
+51,private,21,Wife,Management/Business,55,Female,,
+38,private,21,Husband,Production/Assembly,52,Male,,
+57,governmental,17,Divorced,Office/Administrative Support,50,Female,,
+41,private,21,Never married,Management/Business,40,Male,,
+24,governmental,21,Never married,Office/Administrative Support,40,Female,,No
+53,private,23,Husband,Healthcare/Medical Services,50,Male,,
+44,governmental,20,Husband,Transport,50,Male,,
+58,private,16,Divorced,Transport,60,Male,,
+39,governmental,22,Husband,Protective Services,50,Male,,
+60,governmental,22,Wife,Education,16,Female,,
+60,private,21,Wife,Education,40,Female,,
+47,private,17,Divorced,Management/Business,48,Male,1.0,
+28,private,22,Wife,Healthcare/Medical Services,40,Female,,No
+32,private,19,Husband,Transport,80,Male,,
+46,private,19,Husband,Service/Hospitality,50,Male,,
+57,private,24,Husband,Counseling/Mental Health Services,70,Male,,
+47,self employed,16,Never married,Construction/Extraction,50,Male,,
+46,private,22,Wife,Healthcare/Medical Services,48,Female,,No
+39,private,21,Wife,Education,60,Female,1.0,No
+31,private,21,Husband,Sales,55,Male,,
+43,private,22,Husband,Sales,40,Male,,
+36,governmental,21,Wife,Education,40,Female,,Yes
+39,private,14,Divorced,Production/Assembly,60,Male,,
+21,private,16,Never married,Transport,60,Male,,
+37,private,16,Never married,Production/Assembly,55,Female,,No
+65,governmental,21,Wife,Counseling/Mental Health Services,10,Female,,
+39,private,20,Never married,Office/Administrative Support,40,Female,,No
+21,private,19,Never married,Sales,30,Female,,No
+39,private,23,Wife,Legal Services,32,Female,,No
+28,self employed,13,Husband,Construction/Extraction,55,Male,1.0,
+20,private,19,Never married,Office/Administrative Support,25,Female,,No
+36,governmental,22,Husband,Management/Business,40,Male,,
+34,governmental,21,Wife,Education,14,Female,,No
+43,self employed,21,Never married,Management/Business,50,Male,1.0,
+40,private,21,Husband,Management/Business,50,Male,,
+22,private,21,Never married,"Science, Engineering, Technology",20,Male,,
+45,private,16,Never married,Transport,40,Male,,
+29,private,21,Husband,"Science, Engineering, Technology",40,Male,,
+58,private,20,Wife,Healthcare/Medical Services,40,Female,,
+62,self employed,21,Widowed,Management/Business,60,Male,,
+70,private,23,Husband,Sales,50,Male,,
+38,private,21,Husband,Management/Business,50,Male,,
+33,governmental,21,Never married,Counseling/Mental Health Services,40,Male,,
+30,private,19,Never married,Production/Assembly,50,Male,,
+53,governmental,22,Wife,Education,50,Female,,
+50,private,20,Husband,Construction/Extraction,70,Male,,
+23,private,21,Never married,Transport,40,Male,,
+55,self employed,19,Wife,Management/Business,60,Female,,
+27,private,20,Never married,Sales,25,Female,,No
+50,private,22,Husband,Healthcare/Medical Services,45,Male,,
+37,governmental,21,Never married,Office/Administrative Support,40,Female,,No
+53,governmental,22,Wife,Education,50,Female,,
+46,governmental,22,Wife,Education,40,Female,,No
+35,private,21,Husband,"Science, Engineering, Technology",45,Male,,
+45,governmental,21,Wife,Education,40,Female,,No
+40,private,22,Divorced,Service/Hospitality,75,Female,,No
+24,private,14,Never married,Sales,40,Female,,No
+51,governmental,21,Husband,Management/Business,50,Male,,
+50,self employed,19,Husband,Management/Business,50,Male,,
+66,governmental,21,Husband,Management/Business,40,Male,,
+49,private,21,Wife,Management/Business,20,Female,,No
+29,private,16,Never married,Production/Assembly,50,Female,,No
+63,private,21,Husband,Counseling/Mental Health Services,50,Male,,
+55,self employed,24,Husband,Healthcare/Medical Services,50,Male,,
+27,private,14,Separated,Service/Hospitality,30,Female,,Yes
+30,private,22,Never married,"Science, Engineering, Technology",40,Male,1.0,
+28,private,22,Wife,Healthcare/Medical Services,40,Female,,No
+54,private,20,Husband,Construction/Extraction,40,Male,,
+31,private,18,Divorced,Repair/Maintenance,45,Male,,
+47,private,19,Never married,"Science, Engineering, Technology",50,Male,,
+29,governmental,22,Wife,Education,48,Female,,No
+24,private,22,Husband,Management/Business,35,Male,,
+54,governmental,24,Wife,Education,40,Female,,
+62,self employed,21,Divorced,Management/Business,40,Female,,
+34,private,21,Husband,Finance/Accounting,50,Male,,
+57,private,21,Husband,Management/Business,55,Male,,
+36,private,18,Husband,Service/Hospitality,50,Male,,
+37,private,21,Husband,"Science, Engineering, Technology",40,Male,1.0,
+69,private,21,Husband,"Science, Engineering, Technology",45,Male,,
+30,self employed,16,Wife,Service/Hospitality,50,Female,,No
+58,private,21,Husband,Management/Business,50,Male,,
+49,private,22,Husband,Counseling/Mental Health Services,50,Male,,
+55,self employed,24,Husband,Healthcare/Medical Services,50,Male,,
+62,governmental,22,Wife,Management/Business,40,Female,,
+37,private,19,Never married,Production/Assembly,50,Male,,
+60,private,20,Wife,Entertainment,60,Female,,
+28,private,23,Husband,Healthcare/Medical Services,50,Male,1.0,
+29,private,20,Never married,Repair/Maintenance,45,Male,,
+45,private,21,Never married,Management/Business,46,Female,,No
+54,private,21,Husband,Sales,50,Male,,
+31,governmental,24,Husband,Education,45,Male,1.0,
+34,private,21,Husband,Management/Business,50,Male,,
+58,governmental,21,Husband,Repair/Maintenance,50,Male,,
+36,private,21,Husband,Education,50,Male,,
+33,private,22,Husband,Management/Business,45,Male,,
+29,private,22,Husband,Management/Business,50,Male,,
+31,private,20,Wife,Healthcare/Medical Services,55,Female,,Yes
+34,private,22,Husband,Sales,80,Male,,
+47,self employed,21,Wife,Sales,30,Female,,No
+30,private,21,Wife,Healthcare/Medical Services,20,Female,,No
+42,governmental,22,Wife,Education,40,Female,,No
+76,self employed,21,Husband,Sales,40,Male,,
+57,private,19,Divorced,Repair/Maintenance,50,Female,,
+32,private,19,Husband,Healthcare/Medical Services,84,Male,,
+38,governmental,24,Wife,Education,50,Female,,No
+59,private,22,Husband,Sales,40,Male,,
+30,private,21,Wife,Healthcare/Medical Services,40,Female,,No
+33,governmental,23,Husband,Education,40,Male,,
+37,private,21,Husband,"Science, Engineering, Technology",60,Male,,
+62,private,22,Husband,Healthcare/Medical Services,45,Male,,
+22,private,20,Never married,Production/Assembly,50,Male,,
+43,private,22,Wife,Education,40,Female,,No
+31,private,22,Wife,Healthcare/Medical Services,40,Female,,Yes
+42,private,20,Wife,Service/Hospitality,40,Female,,No
+61,private,18,Wife,Management/Business,50,Female,,
+47,private,22,Wife,Education,45,Female,,No
+65,self employed,18,Divorced,Management/Business,40,Male,,
+24,private,16,Never married,Sales,32,Female,,No
+47,private,23,Never married,Healthcare/Medical Services,40,Female,,No
+52,private,21,Wife,Management/Business,60,Female,,
+62,private,21,Wife,Management/Business,30,Female,,
+42,private,18,Never married,Sales,40,Male,,
+46,private,21,Husband,Healthcare/Medical Services,40,Male,,
+38,private,22,Wife,Entertainment,40,Female,,No
+58,governmental,24,Wife,Education,40,Female,,
+60,private,16,Divorced,Transport,84,Male,,
+17,private,15,Never married,Transport,16,Male,,
+56,private,21,Never married,Healthcare/Medical Services,50,Male,,
+51,governmental,21,Husband,Management/Business,40,Male,,
+40,private,22,Husband,Management/Business,60,Male,,
+52,governmental,22,Wife,Management/Business,40,Female,,
+61,governmental,24,Wife,Education,40,Female,,
+36,private,21,Wife,Management/Business,45,Female,,No
+26,private,23,Wife,Healthcare/Medical Services,30,Female,,No
+31,private,21,Never married,Office/Administrative Support,47,Female,1.0,No
+30,private,22,Divorced,Management/Business,50,Male,,
+35,private,16,Husband,Sales,60,Male,,
+49,self employed,22,Wife,Service/Hospitality,30,Female,,No
+64,private,22,Wife,Entertainment,40,Female,,
+49,private,21,Divorced,Healthcare/Medical Services,50,Female,,No
+51,private,20,Husband,Construction/Extraction,48,Male,,
+41,self employed,21,Husband,Management/Business,45,Male,,
+26,private,14,Never married,Office/Administrative Support,40,Female,,No
+62,private,19,Widowed,Finance/Accounting,40,Male,,
+18,private,17,Never married,Construction/Extraction,50,Male,,
+58,self employed,21,Divorced,Transport,6,Male,,
+61,governmental,22,Wife,Education,24,Female,,
+33,private,24,Husband,"Science, Engineering, Technology",35,Male,,
+54,governmental,21,Wife,Management/Business,80,Female,,
+34,private,22,Husband,"Science, Engineering, Technology",40,Male,,
+55,private,22,Wife,Sales,40,Female,,
+73,private,21,Husband,Entertainment,20,Male,1.0,
+62,private,22,Husband,Management/Business,50,Male,,
+67,governmental,22,Wife,Education,12,Female,,
+24,private,16,Never married,Management/Business,45,Male,,
+60,governmental,22,Divorced,Healthcare/Medical Services,50,Male,,
+20,private,16,Never married,Repair/Maintenance,48,Male,,
+44,governmental,22,Never married,Entertainment,50,Female,1.0,No
+49,private,21,Never married,Management/Business,42,Male,,
+49,governmental,16,Wife,Office/Administrative Support,46,Female,,No
+25,private,21,Never married,Office/Administrative Support,40,Male,,
+17,governmental,13,Never married,Service/Hospitality,16,Male,,
+29,private,21,Wife,Finance/Accounting,40,Female,,No
+30,governmental,22,Husband,Healthcare/Medical Services,50,Male,,
+42,governmental,21,Wife,Office/Administrative Support,40,Female,,No
+25,private,21,Never married,Healthcare/Medical Services,30,Female,,No
+55,governmental,21,Husband,Entertainment,40,Male,,
+20,private,16,Never married,Production/Assembly,55,Male,,
+48,governmental,18,Husband,Protective Services,46,Male,,
+47,governmental,22,Widowed,Education,40,Female,,No
+52,governmental,19,Divorced,Transport,50,Male,,
+31,private,21,Divorced,Sales,40,Male,,
+66,private,17,Husband,Transport,50,Male,,
+40,private,21,Husband,Management/Business,50,Male,,
+26,private,21,Wife,Healthcare/Medical Services,40,Female,,No
+38,governmental,24,Wife,Education,96,Female,,No
+55,private,21,Husband,Management/Business,45,Male,,
+60,private,19,Husband,Production/Assembly,45,Male,,
+45,private,18,Husband,"Science, Engineering, Technology",40,Male,,
+22,private,21,Never married,Service/Hospitality,40,Female,,Yes
+36,private,16,Divorced,Service/Hospitality,40,Female,,Yes
+41,private,16,Husband,Transport,55,Male,,
+43,self employed,21,Wife,Finance/Accounting,25,Female,,No
+21,private,21,Never married,Healthcare/Medical Services,45,Male,,
+42,private,23,Never married,Counseling/Mental Health Services,35,Female,,No
+52,private,19,Divorced,Finance/Accounting,58,Male,,
+61,private,12,Husband,Construction/Extraction,50,Male,,
+46,governmental,21,Wife,Office/Administrative Support,35,Female,,No
+43,private,19,Wife,Office/Administrative Support,55,Female,,No
+51,self employed,19,Husband,Construction/Extraction,60,Male,,
+69,private,23,Never married,Healthcare/Medical Services,55,Female,,
+43,private,17,Husband,Transport,65,Male,,
+71,governmental,21,Husband,Management/Business,6,Male,,
+31,governmental,21,Wife,Transport,50,Female,,No
+60,governmental,22,Husband,Education,50,Male,,
+34,governmental,20,Wife,Healthcare/Medical Services,55,Female,,No
+21,private,16,Husband,Service/Hospitality,55,Male,,
+51,self employed,21,Wife,Finance/Accounting,25,Female,,
+50,governmental,21,Husband,Education,50,Male,,
+28,private,21,Wife,Transport,40,Female,,Yes
+55,self employed,22,Husband,Management/Business,50,Male,,
+76,private,21,Widowed,Management/Business,42,Female,,
+75,self employed,15,Husband,Transport,40,Male,,
+26,private,22,Wife,Sales,45,Female,,No
+34,private,21,Wife,Sales,40,Female,,No
+53,private,19,Never married,Service/Hospitality,40,Male,,
+55,private,16,Wife,Transport,50,Female,,
+25,private,16,Husband,"Science, Engineering, Technology",60,Male,,
+60,private,16,Never married,Service/Hospitality,48,Female,,
+26,private,21,Never married,Office/Administrative Support,46,Female,,No
+61,self employed,17,Husband,Management/Business,50,Male,,
+45,private,18,Husband,Sales,50,Male,,
+47,governmental,21,Wife,Education,40,Female,,No
+32,private,6,Husband,Construction/Extraction,20,Male,3.0,
+43,private,21,Husband,Management/Business,40,Male,,
+28,private,19,Never married,Transport,65,Male,,
+27,private,21,Wife,Healthcare/Medical Services,50,Female,,No
+65,self employed,23,Wife,Legal Services,50,Female,,
+38,private,21,Divorced,Management/Business,50,Female,,No
+54,private,21,Husband,Management/Business,50,Male,,
+25,private,19,Never married,Management/Business,48,Male,,
+35,private,21,Wife,Counseling/Mental Health Services,45,Female,,No
+29,private,16,Husband,Management/Business,45,Male,1.0,
+35,self employed,24,Wife,Legal Services,10,Female,,No
+33,governmental,21,Wife,Education,40,Female,,No
+54,private,21,Husband,Management/Business,55,Male,,
+55,private,23,Husband,Healthcare/Medical Services,50,Male,,
+42,private,21,Wife,Service/Hospitality,40,Female,,No
+61,private,16,Divorced,Service/Hospitality,45,Male,,
+43,private,19,Husband,Production/Assembly,38,Male,,
+62,private,21,Husband,Sales,48,Male,,
+71,self employed,21,Never married,"Farming, Fishing, Forestry",60,Male,,
+79,private,24,Husband,Finance/Accounting,25,Male,,
+71,private,16,Never married,Transport,12,Male,,
+38,private,21,Husband,"Science, Engineering, Technology",45,Male,,
+38,self employed,21,Wife,Office/Administrative Support,28,Female,,No
+48,private,21,Husband,"Science, Engineering, Technology",48,Male,,
+40,self employed,21,Wife,Entertainment,30,Female,,No
+62,private,20,Husband,Management/Business,60,Male,,
+43,governmental,22,Wife,Education,40,Female,,No
+30,governmental,19,Husband,Protective Services,99,Male,,
+47,governmental,21,Wife,Education,40,Female,,No
+45,private,21,Husband,"Science, Engineering, Technology",45,Male,,
+26,governmental,21,Wife,Military Services,45,Female,,No
+54,self employed,16,Wife,Service/Hospitality,50,Female,,
+22,governmental,21,Never married,Counseling/Mental Health Services,40,Female,,No
+35,private,17,Divorced,Sales,15,Male,,
+54,private,21,Husband,Finance/Accounting,50,Male,,
+25,private,21,Husband,Sales,55,Male,,
+45,private,22,Husband,Management/Business,40,Male,,
+54,private,22,Husband,"Science, Engineering, Technology",50,Male,,
+52,private,22,Wife,Counseling/Mental Health Services,40,Female,,
+68,private,16,Husband,Service/Hospitality,60,Male,,
+56,private,20,Wife,Healthcare/Medical Services,50,Female,,
+44,governmental,21,Divorced,Repair/Maintenance,40,Male,,
+31,private,21,Husband,Management/Business,45,Male,,
+39,private,24,Wife,Healthcare/Medical Services,50,Female,,No
+33,self employed,21,Husband,Management/Business,50,Male,,
+47,private,21,Never married,Production/Assembly,45,Female,1.0,No
+56,private,21,Never married,Healthcare/Medical Services,50,Male,,
+49,private,21,Never married,Management/Business,84,Male,,
+52,private,14,Divorced,Production/Assembly,54,Male,,
+26,private,19,Wife,Office/Administrative Support,46,Female,,No
+58,self employed,21,Husband,Entertainment,10,Male,,
+34,private,21,Husband,Sales,40,Male,,
+69,private,19,Wife,Office/Administrative Support,40,Female,,
+55,governmental,21,Wife,Education,50,Female,,
+35,private,21,Never married,Management/Business,40,Female,,No
+65,private,13,Husband,Transport,60,Male,,
+30,private,16,Wife,Service/Hospitality,25,Female,,No
+50,private,21,Divorced,"Science, Engineering, Technology",45,Female,,No
+44,private,21,Husband,Management/Business,50,Male,,
+33,private,21,Husband,Counseling/Mental Health Services,40,Male,,
+62,private,18,Husband,Production/Assembly,65,Male,,
+22,private,16,Never married,Sales,40,Male,,
+49,private,18,Husband,Production/Assembly,80,Male,,
+60,governmental,22,Never married,Healthcare/Medical Services,40,Female,,
+49,private,19,Husband,Production/Assembly,50,Male,,
+51,private,24,Husband,"Science, Engineering, Technology",40,Male,,
+31,private,19,Wife,Office/Administrative Support,40,Female,,No
+54,self employed,17,Husband,Construction/Extraction,30,Male,,
+53,private,21,Husband,"Science, Engineering, Technology",50,Male,,
+39,private,18,Never married,Repair/Maintenance,40,Male,,
+35,governmental,21,Widowed,Legal Services,40,Female,1.0,Yes
+71,self employed,21,Husband,Management/Business,60,Male,,
+61,private,16,Never married,Production/Assembly,40,Male,,
+41,self employed,10,Husband,Production/Assembly,40,Male,,
+41,private,21,Husband,Transport,68,Male,,
+64,private,21,Wife,Sales,6,Female,,
+44,private,21,Husband,Management/Business,50,Male,,
+30,governmental,24,Husband,Education,45,Male,,
+47,private,19,Divorced,Transport,70,Male,,
+37,private,21,Never married,Transport,25,Male,,
+48,self employed,23,Husband,Healthcare/Medical Services,40,Male,,
+52,private,21,Wife,Management/Business,40,Female,,
+24,private,22,Never married,Counseling/Mental Health Services,40,Female,,No
+37,private,16,Husband,Management/Business,50,Male,,
+48,governmental,22,Wife,Education,45,Female,,No
+33,private,18,Husband,Construction/Extraction,40,Male,,
+55,private,21,Divorced,Office/Administrative Support,50,Male,,
+63,private,19,Divorced,Office/Administrative Support,55,Female,,
+43,private,17,Wife,Management/Business,48,Female,,No
+59,private,16,Wife,Office/Administrative Support,40,Female,,
+63,private,21,Widowed,"Science, Engineering, Technology",50,Male,,
+24,governmental,19,Wife,Military Services,48,Female,,No
+25,private,19,Never married,Sales,54,Female,,No
+59,private,20,Divorced,"Science, Engineering, Technology",45,Male,,
+28,private,21,Husband,Sales,40,Male,,
+54,private,16,Divorced,Production/Assembly,60,Male,,
+30,self employed,16,Never married,Construction/Extraction,40,Male,,
+48,private,21,Husband,Sales,45,Male,,
+53,governmental,22,Husband,Education,47,Male,,
+46,governmental,22,Husband,Management/Business,50,Male,,
+53,private,24,Husband,Sales,36,Male,,
+61,private,21,Husband,"Science, Engineering, Technology",45,Male,,
+36,private,21,Never married,Education,40,Male,,
+34,governmental,21,Husband,Finance/Accounting,40,Male,,
+62,governmental,22,Wife,Counseling/Mental Health Services,40,Female,,
+19,private,16,Never married,Service/Hospitality,58,Female,,No
+43,governmental,22,Divorced,Education,40,Female,,No
+28,governmental,22,Never married,Education,60,Female,,No
+36,private,17,Husband,Transport,50,Male,,
+18,private,14,Never married,Sales,20,Female,,No
+23,self employed,15,Never married,Service/Hospitality,10,Male,,
+50,private,22,Never married,Education,50,Female,,No
+35,private,9,Husband,Service/Hospitality,48,Male,2.0,
+28,private,21,Husband,Counseling/Mental Health Services,45,Male,,
+20,private,19,Never married,Sales,30,Male,,
+32,governmental,21,Wife,Education,40,Female,,No
+32,private,21,Wife,Management/Business,40,Female,,No
+47,private,20,Wife,Healthcare/Medical Services,60,Female,,No
+41,private,21,Divorced,"Science, Engineering, Technology",40,Male,,
+51,governmental,22,Wife,Management/Business,40,Female,,
+41,governmental,21,Wife,Education,40,Female,,No
+58,private,16,Husband,Production/Assembly,65,Male,,
+64,private,20,Husband,Repair/Maintenance,50,Male,,
+65,private,24,Divorced,Management/Business,50,Female,2.0,
+69,self employed,16,Husband,Sales,32,Male,,
+47,private,21,Husband,Management/Business,55,Male,,
+42,private,23,Never married,Healthcare/Medical Services,50,Female,,No
+40,self employed,18,Divorced,Service/Hospitality,65,Female,,No
+45,private,16,Husband,"Farming, Fishing, Forestry",50,Male,2.0,
+62,self employed,21,Divorced,Counseling/Mental Health Services,10,Female,,
+49,private,21,Wife,Management/Business,40,Female,,No
+23,governmental,21,Never married,Education,45,Female,,No
+25,private,19,Never married,Management/Business,48,Male,,
+46,private,16,Husband,Construction/Extraction,50,Male,,
+57,private,18,Divorced,Office/Administrative Support,40,Female,,
+32,private,22,Never married,Healthcare/Medical Services,40,Female,,No
+64,no paid work,21,Divorced,Sales,2,Male,,
+35,governmental,21,Husband,Protective Services,50,Male,,
+27,private,21,Wife,Healthcare/Medical Services,48,Female,,No
+58,private,20,Husband,Repair/Maintenance,70,Male,,
+46,private,20,Never married,Office/Administrative Support,48,Female,,No
+39,private,16,Husband,Production/Assembly,50,Male,,
+54,private,21,Divorced,Office/Administrative Support,42,Female,,
+31,governmental,21,Wife,Education,40,Female,,No
+23,private,20,Never married,Production/Assembly,48,Male,,
+30,governmental,20,Divorced,Military Services,50,Male,,
+52,private,21,Wife,Office/Administrative Support,40,Female,,
+44,private,21,Wife,Sales,60,Female,,No
+61,governmental,21,Wife,Management/Business,50,Female,,
+22,private,20,Never married,Transport,52,Male,,
+31,private,14,Never married,"Science, Engineering, Technology",84,Male,,
+61,private,18,Widowed,Production/Assembly,46,Male,,
+40,self employed,21,Wife,Production/Assembly,45,Female,,No
+25,private,21,Never married,"Science, Engineering, Technology",55,Male,,
+52,private,22,Husband,Management/Business,50,Male,,
+33,governmental,20,Husband,Sales,40,Male,,
+44,private,21,Divorced,Healthcare/Medical Services,60,Female,,No
+70,governmental,21,Husband,Management/Business,40,Male,,
+48,self employed,21,Husband,Entertainment,20,Male,,
+41,private,21,Wife,Office/Administrative Support,40,Female,,No
+34,private,19,Wife,Office/Administrative Support,40,Female,,No
+26,governmental,19,Wife,Healthcare/Medical Services,40,Female,,No
+38,self employed,22,Wife,Entertainment,20,Female,,No
+53,private,20,Wife,Management/Business,50,Female,,
+64,self employed,22,Wife,Education,16,Female,,
+54,private,21,Husband,Protective Services,40,Male,,
+59,governmental,21,Husband,Production/Assembly,40,Male,,
+62,private,22,Husband,Office/Administrative Support,40,Male,,
+61,private,21,Husband,Sales,40,Male,,
+47,private,21,Never married,Office/Administrative Support,40,Female,,No
+29,private,19,Husband,Transport,38,Male,,
+30,private,16,Wife,Healthcare/Medical Services,45,Female,,No
+32,private,21,Wife,Transport,40,Female,,No
+54,private,21,Divorced,Office/Administrative Support,42,Female,,
+30,self employed,19,Never married,Construction/Extraction,60,Male,,
+53,private,16,Separated,Office/Administrative Support,50,Female,,
+29,private,19,Never married,Production/Assembly,50,Male,,
+40,private,21,Wife,Management/Business,60,Female,,No
+33,private,16,Never married,Transport,45,Male,,
+53,private,21,Divorced,Sales,40,Male,,
+39,governmental,21,Wife,Education,40,Female,,No
+68,governmental,21,Husband,Transport,40,Male,,
+27,private,23,Never married,Legal Services,45,Male,,
+64,governmental,23,Husband,Healthcare/Medical Services,45,Male,,
+57,private,19,Divorced,Management/Business,45,Female,,
+26,governmental,21,Wife,Education,20,Female,2.0,No
+54,private,22,Wife,Management/Business,40,Female,,
+56,self employed,19,Divorced,Management/Business,50,Male,,
+46,private,16,Husband,Transport,56,Male,,
+38,self employed,24,Wife,Healthcare/Medical Services,40,Female,,No
+59,private,21,Husband,"Science, Engineering, Technology",40,Male,,
+47,private,20,Divorced,Repair/Maintenance,60,Female,,No
+57,private,22,Husband,Transport,40,Male,,
+35,private,21,Husband,Management/Business,50,Male,,
+31,private,21,Husband,Sales,45,Male,,
+32,private,21,Husband,Finance/Accounting,43,Male,,
+38,governmental,22,Wife,Education,40,Female,,No
+40,private,21,Wife,Management/Business,40,Female,2.0,No
+46,self employed,21,Wife,Construction/Extraction,5,Female,,No
+71,governmental,21,Husband,Office/Administrative Support,42,Male,,
+20,private,19,Never married,Transport,20,Male,,
+51,private,21,Divorced,Counseling/Mental Health Services,40,Male,,
+55,governmental,21,Wife,Office/Administrative Support,40,Female,,
+31,governmental,22,Wife,Education,50,Female,,No
+49,private,21,Husband,Office/Administrative Support,40,Male,,
+37,private,21,Wife,Office/Administrative Support,40,Female,,No
+25,private,14,Never married,Transport,20,Male,,
+57,governmental,22,Husband,Management/Business,40,Male,,
+50,private,20,Wife,Healthcare/Medical Services,25,Female,,No
+61,private,16,Never married,"Science, Engineering, Technology",50,Male,,
+60,private,22,Never married,Education,40,Female,,
+64,governmental,21,Husband,"Science, Engineering, Technology",40,Male,,
+49,private,16,Wife,Office/Administrative Support,40,Female,,No
+40,private,21,Wife,Management/Business,40,Female,,No
+29,private,21,Wife,Service/Hospitality,60,Female,,No
+50,private,21,Wife,Service/Hospitality,45,Female,,No
+63,private,18,Husband,Production/Assembly,50,Male,,
+59,governmental,16,Divorced,Education,60,Female,,
+63,governmental,21,Divorced,Healthcare/Medical Services,48,Female,,
+49,private,16,Wife,Office/Administrative Support,40,Female,,No
+60,governmental,21,Divorced,Protective Services,25,Male,,
+44,private,16,Husband,Management/Business,40,Male,,
+60,self employed,23,Husband,Healthcare/Medical Services,50,Male,,
+26,private,19,Husband,Transport,50,Male,,
+53,private,19,Husband,Production/Assembly,56,Male,,
+40,private,13,Widowed,Service/Hospitality,60,Female,,No
+41,private,21,Never married,Sales,45,Male,,
+65,governmental,21,Husband,Office/Administrative Support,48,Male,,
+38,private,21,Never married,Office/Administrative Support,43,Female,,No
+52,private,21,Husband,Sales,40,Male,,
+54,private,21,Husband,Sales,45,Male,,
+50,governmental,21,Wife,Education,50,Female,,No
+30,governmental,16,Never married,Office/Administrative Support,45,Female,,No
+25,private,21,Never married,"Science, Engineering, Technology",40,Male,,
+46,private,21,Never married,Management/Business,60,Female,,No
+44,private,21,Divorced,Transport,50,Female,,No
+41,private,19,Separated,Office/Administrative Support,25,Female,,No
+31,private,20,Never married,Construction/Extraction,48,Male,,
+54,private,21,Wife,Finance/Accounting,40,Female,,
+32,private,22,Never married,"Science, Engineering, Technology",45,Female,,No
+61,governmental,21,Wife,Office/Administrative Support,40,Female,,
+33,private,17,Husband,Production/Assembly,48,Male,,
+43,private,21,Husband,Management/Business,50,Male,,
+64,self employed,21,Husband,Construction/Extraction,60,Male,,
+62,governmental,21,Husband,Education,50,Male,,
+32,private,20,Never married,Healthcare/Medical Services,65,Male,,
+39,private,21,Husband,Management/Business,45,Male,,
+58,self employed,23,Wife,Entertainment,12,Female,,
+60,self employed,16,Wife,Office/Administrative Support,20,Female,,
+32,governmental,21,Husband,Management/Business,40,Male,,
+31,private,16,Husband,Management/Business,45,Male,,
+38,self employed,22,Wife,Education,20,Female,,No
+52,self employed,22,Wife,Counseling/Mental Health Services,48,Female,,
+53,private,21,Wife,Office/Administrative Support,40,Female,,
+63,private,21,Husband,Healthcare/Medical Services,48,Male,,
+29,private,22,Wife,Healthcare/Medical Services,40,Female,2.0,Yes
+61,governmental,21,Husband,Finance/Accounting,40,Male,,
+50,private,21,Husband,Transport,40,Male,,
+79,self employed,15,Husband,Sales,72,Male,,
+50,private,16,Husband,Transport,38,Male,,
+36,governmental,22,Never married,Education,60,Male,,
+83,governmental,16,Divorced,Service/Hospitality,50,Male,,
+54,governmental,24,Husband,Management/Business,50,Male,,
+45,private,19,Husband,Protective Services,48,Male,,
+25,private,19,Wife,Healthcare/Medical Services,50,Female,,No
+35,governmental,23,Wife,Healthcare/Medical Services,45,Female,,No
+26,governmental,21,Never married,Counseling/Mental Health Services,45,Male,,
+73,governmental,11,Husband,Healthcare/Medical Services,75,Male,,
+55,private,21,Wife,Management/Business,40,Female,,
+64,private,22,Husband,Sales,40,Male,,
+65,governmental,21,Husband,Office/Administrative Support,40,Male,,
+30,private,19,Never married,Sales,50,Female,,No
+28,private,22,Wife,Counseling/Mental Health Services,45,Female,,No
+51,private,21,Divorced,Sales,40,Female,,
+59,private,21,Wife,Healthcare/Medical Services,25,Female,,
+31,private,16,Never married,Production/Assembly,45,Female,,No
+24,private,21,Husband,"Science, Engineering, Technology",40,Male,,
+62,private,21,Wife,Management/Business,40,Female,,
+44,private,19,Husband,Transport,52,Male,,
+23,private,19,Husband,Service/Hospitality,66,Male,1.0,
+69,private,21,Husband,Sales,40,Male,,
+28,governmental,21,Wife,Education,40,Female,,No
+34,self employed,19,Husband,Transport,50,Male,,
+60,private,19,Husband,Sales,62,Male,,
+65,self employed,23,Divorced,Legal Services,50,Male,,
+66,private,21,Divorced,Finance/Accounting,50,Female,,
+55,private,21,Wife,Healthcare/Medical Services,32,Female,,
+67,private,15,Never married,Transport,55,Male,,
+35,private,16,Husband,Management/Business,50,Male,,
+35,private,19,Wife,Healthcare/Medical Services,40,Female,,No
+47,governmental,24,Wife,Education,60,Female,,No
+50,self employed,21,Husband,Sales,45,Male,,
+66,private,20,Wife,Office/Administrative Support,45,Female,,
+28,governmental,21,Wife,Education,50,Female,,No
+52,private,22,Wife,Management/Business,60,Female,,
+40,private,16,Divorced,Repair/Maintenance,45,Male,,
+46,private,16,Never married,Transport,35,Male,,
+23,governmental,21,Never married,Education,40,Female,,No
+54,private,16,Husband,Sales,50,Male,,
+17,private,13,Never married,Sales,10,Female,,No
+21,private,19,Never married,Service/Hospitality,30,Male,,
+50,private,16,Husband,Transport,50,Male,,
+52,private,20,Wife,Healthcare/Medical Services,50,Female,,
+66,private,22,Divorced,"Science, Engineering, Technology",50,Male,,
+62,self employed,23,Husband,Healthcare/Medical Services,60,Male,,
+58,self employed,11,Never married,Repair/Maintenance,40,Male,,
+20,private,16,Never married,Production/Assembly,48,Female,,No
+45,private,21,Wife,Management/Business,12,Female,,No
+39,private,21,Wife,Entertainment,22,Female,,No
+58,self employed,16,Divorced,Management/Business,60,Male,,
+40,private,21,Husband,Production/Assembly,50,Male,,
+50,governmental,24,Husband,Education,40,Male,1.0,
+60,self employed,23,Husband,Healthcare/Medical Services,40,Male,,
+61,self employed,21,Husband,Sales,40,Male,,
+52,governmental,19,Divorced,Management/Business,55,Female,,
+34,private,23,Husband,Healthcare/Medical Services,80,Male,,
+41,private,21,Husband,Sales,50,Male,,
+37,private,21,Wife,Legal Services,50,Female,,No
+55,private,13,Divorced,Production/Assembly,48,Male,,
+35,private,24,Husband,Service/Hospitality,50,Male,1.0,
+36,private,22,Wife,Management/Business,45,Female,,No
+47,governmental,21,Husband,Management/Business,72,Male,,
+35,private,21,Husband,"Science, Engineering, Technology",50,Male,,
+69,private,21,Husband,Sales,60,Male,,
+47,private,16,Divorced,Transport,80,Male,,
+63,governmental,24,Wife,Management/Business,50,Female,,
+33,private,16,Divorced,Service/Hospitality,36,Male,,
+62,self employed,23,Never married,Legal Services,30,Male,,
+56,private,19,Wife,Production/Assembly,50,Female,,
+44,governmental,21,Wife,Healthcare/Medical Services,45,Female,,No
+57,private,22,Never married,Healthcare/Medical Services,40,Female,,
+42,private,21,Never married,Repair/Maintenance,42,Female,,No
+57,governmental,22,Wife,Education,40,Female,,
+45,private,21,Husband,Counseling/Mental Health Services,40,Male,,
+57,private,19,Never married,Healthcare/Medical Services,55,Female,,
+46,private,19,Husband,Sales,50,Male,,
+36,governmental,24,Husband,Management/Business,45,Male,,
+46,private,21,Husband,Management/Business,45,Male,,
+50,private,21,Husband,Transport,70,Male,,
+39,private,21,Wife,Management/Business,40,Female,,No
+43,private,21,Divorced,Healthcare/Medical Services,40,Female,,No
+43,governmental,24,Wife,Management/Business,80,Female,1.0,No
+36,private,16,Never married,Sales,46,Female,,No
+59,private,16,Wife,Education,50,Female,,
+53,governmental,19,Never married,Management/Business,50,Female,,
+61,self employed,11,Wife,Service/Hospitality,10,Female,,
+27,private,20,Never married,Management/Business,50,Male,,
+70,governmental,21,Wife,Office/Administrative Support,14,Female,,
+48,private,22,Wife,Office/Administrative Support,40,Female,,No
+46,private,20,Husband,Management/Business,50,Male,,
+57,private,21,Husband,"Science, Engineering, Technology",50,Male,,
+29,private,19,Divorced,Production/Assembly,60,Male,,
+32,private,18,Never married,Construction/Extraction,45,Male,,
+29,private,16,Husband,Repair/Maintenance,60,Male,,
+48,private,22,Widowed,Healthcare/Medical Services,48,Female,,No
+35,self employed,24,Wife,Legal Services,10,Female,,No
+58,private,22,Wife,Education,28,Female,,
+58,governmental,21,Separated,Healthcare/Medical Services,40,Male,1.0,
+51,self employed,21,Husband,Management/Business,60,Male,,
+47,private,22,Separated,Healthcare/Medical Services,50,Male,,
+42,governmental,21,Wife,Education,40,Female,,No
+62,self employed,18,Husband,Office/Administrative Support,30,Male,,
+18,private,14,Never married,Sales,20,Female,,No
+29,private,22,Never married,Transport,52,Male,,
+20,private,16,Never married,Service/Hospitality,48,Male,2.0,
+54,governmental,16,Divorced,Management/Business,40,Female,,
+61,self employed,23,Divorced,Healthcare/Medical Services,60,Male,,
+32,private,23,Wife,Healthcare/Medical Services,34,Female,,No
+50,private,21,Husband,Sales,50,Male,,
+55,private,21,Divorced,Counseling/Mental Health Services,50,Female,,
+26,private,18,Never married,Transport,52,Male,,
+50,private,19,Husband,Production/Assembly,56,Male,,
+41,governmental,21,Wife,Education,40,Female,,No
+52,private,19,Husband,Production/Assembly,56,Male,,
+50,private,24,Husband,Healthcare/Medical Services,40,Male,,
+61,self employed,21,Never married,Finance/Accounting,40,Male,,
+29,governmental,21,Never married,Education,45,Female,,No
+26,private,20,Never married,Healthcare/Medical Services,50,Male,,
+49,governmental,19,Husband,Service/Hospitality,40,Male,,
+22,private,16,Never married,Sales,40,Male,,
+60,private,19,Husband,Production/Assembly,45,Male,,
+45,private,1,Never married,Sales,45,Male,,
+33,governmental,21,Husband,Finance/Accounting,40,Male,,
+48,private,21,Wife,Healthcare/Medical Services,35,Female,,No
+31,private,22,Wife,Healthcare/Medical Services,40,Female,,No
+48,private,16,Never married,Sales,50,Male,,
+55,private,21,Wife,Healthcare/Medical Services,45,Female,,
+66,private,21,Divorced,Education,48,Female,,
+43,private,21,Husband,Office/Administrative Support,55,Male,,
+23,private,20,Never married,Office/Administrative Support,40,Female,,No
+61,private,18,Husband,Management/Business,55,Male,,
+66,self employed,16,Wife,Production/Assembly,45,Female,2.0,
+39,private,21,Divorced,Healthcare/Medical Services,40,Female,,No
+52,governmental,22,Divorced,"Science, Engineering, Technology",50,Male,,
+35,private,22,Never married,Education,60,Female,,No
+58,private,19,Husband,Production/Assembly,47,Male,,
+63,private,21,Never married,Entertainment,12,Male,,
+35,self employed,18,Husband,Construction/Extraction,80,Male,,
+44,private,16,Wife,Sales,50,Female,,No
+62,self employed,18,Husband,Transport,40,Male,,
+70,private,21,Husband,Management/Business,38,Male,,
+36,private,21,Wife,Healthcare/Medical Services,40,Female,,No
+47,private,21,Divorced,"Science, Engineering, Technology",50,Male,,
+25,governmental,21,Wife,Education,50,Female,,No
+66,self employed,23,Husband,Management/Business,50,Male,,
+41,private,20,Husband,Counseling/Mental Health Services,50,Male,,
+42,private,16,Divorced,Repair/Maintenance,40,Male,,
+51,private,16,Husband,Office/Administrative Support,60,Male,,
+45,governmental,22,Wife,Education,45,Female,,No
+59,governmental,24,Divorced,Management/Business,50,Female,,
+67,private,16,Husband,Service/Hospitality,48,Male,,
+30,private,21,Wife,Sales,40,Female,,No
+55,private,22,Husband,Education,25,Male,,
+52,private,16,Divorced,Transport,60,Male,,
+57,self employed,19,Husband,Sales,45,Male,1.0,
+45,private,18,Never married,Office/Administrative Support,50,Female,,No
+46,governmental,21,Husband,Management/Business,50,Male,,
+47,private,21,Wife,Finance/Accounting,40,Female,,No
+49,governmental,21,Divorced,Education,40,Female,,No
+67,self employed,21,Husband,Construction/Extraction,40,Male,,
+41,self employed,21,Wife,Finance/Accounting,35,Female,,No
+44,private,20,Wife,Healthcare/Medical Services,72,Female,,No
+28,private,16,Never married,Production/Assembly,48,Male,,
+41,private,12,Wife,Management/Business,60,Female,,No
+61,private,21,Husband,Sales,36,Male,,
+55,private,21,Never married,"Science, Engineering, Technology",40,Male,,
+27,private,21,Husband,Healthcare/Medical Services,50,Male,,
+23,private,19,Never married,Service/Hospitality,40,Male,,
+27,governmental,22,Husband,Education,70,Male,,
+58,governmental,22,Divorced,Management/Business,45,Female,,
+64,private,16,Husband,Management/Business,60,Male,,
+59,private,21,Husband,"Science, Engineering, Technology",40,Male,,
+69,private,21,Never married,Office/Administrative Support,32,Female,,
+33,governmental,21,Wife,Education,40,Female,,No
+60,private,1,Divorced,Office/Administrative Support,30,Male,,
+49,private,18,Husband,Transport,50,Male,,
+34,private,21,Husband,Office/Administrative Support,48,Male,,
+32,private,20,Wife,Healthcare/Medical Services,32,Female,,Yes
+25,private,21,Never married,Service/Hospitality,40,Female,,No
+45,governmental,24,Wife,Education,40,Female,,No
+27,private,19,Never married,Office/Administrative Support,46,Female,,No
+46,governmental,21,Never married,Production/Assembly,40,Female,,No
+45,private,14,Divorced,Transport,40,Female,,No
+52,private,21,Wife,Management/Business,56,Female,,
+27,governmental,21,Never married,Finance/Accounting,40,Female,,No
+31,private,21,Wife,"Science, Engineering, Technology",44,Female,,No
+26,governmental,18,Never married,Service/Hospitality,40,Male,,
+64,private,18,Husband,Transport,60,Male,,
+51,self employed,19,Husband,Management/Business,48,Male,,
+60,private,16,Wife,Office/Administrative Support,40,Female,,
+22,private,20,Never married,Repair/Maintenance,50,Male,,
+43,private,21,Wife,Healthcare/Medical Services,38,Female,,No
+62,governmental,21,Husband,Education,40,Male,1.0,
+26,governmental,21,Wife,Finance/Accounting,50,Female,,No
+62,private,21,Husband,Management/Business,55,Male,,
+52,private,1,Husband,Management/Business,60,Male,,
+41,no paid work,21,Never married,Healthcare/Medical Services,20,Female,,No
+30,private,11,Husband,Production/Assembly,50,Male,3.0,
+21,governmental,16,Never married,Protective Services,75,Female,,No
+50,private,22,Husband,"Science, Engineering, Technology",40,Male,,
+43,private,22,Wife,Healthcare/Medical Services,40,Female,,No
+60,private,18,Husband,Repair/Maintenance,60,Male,,
+61,private,21,Never married,Sales,45,Male,,
+66,private,17,Husband,Transport,50,Male,,
+50,private,21,Never married,Sales,55,Female,,No
+47,private,16,Husband,Production/Assembly,40,Male,,
+60,private,21,Never married,Office/Administrative Support,40,Female,,
+17,private,13,Never married,Service/Hospitality,15,Female,,No
+53,private,16,Wife,Production/Assembly,50,Female,,
+80,private,21,Wife,Finance/Accounting,40,Female,,
+62,governmental,22,Husband,Education,45,Male,,
+64,self employed,17,Husband,Transport,70,Male,,
+34,private,21,Wife,Transport,10,Female,,No
+60,private,20,Husband,Repair/Maintenance,50,Male,,
+67,private,22,Husband,"Science, Engineering, Technology",50,Male,,
+21,private,19,Wife,Service/Hospitality,29,Female,,Yes
+47,governmental,21,Wife,Education,70,Female,,No
+43,private,12,Wife,Transport,55,Female,,No
+47,self employed,21,Husband,Sales,45,Male,,
+58,private,21,Husband,"Science, Engineering, Technology",45,Male,,
+62,self employed,18,Husband,Sales,80,Male,,
+35,governmental,22,Husband,Education,50,Male,,
+39,private,20,Wife,"Science, Engineering, Technology",50,Female,,No
+35,private,16,Husband,"Science, Engineering, Technology",40,Male,,
+44,private,21,Wife,"Science, Engineering, Technology",50,Female,,No
+45,private,21,Husband,Management/Business,40,Male,,
+55,private,16,Wife,Transport,50,Female,,
+58,private,21,Husband,Repair/Maintenance,60,Male,,
+54,governmental,21,Husband,"Science, Engineering, Technology",40,Male,,
+76,self employed,23,Husband,Legal Services,45,Male,,
+52,governmental,21,Wife,Management/Business,50,Female,,
+31,private,22,Wife,Management/Business,45,Female,,No
+40,private,21,Divorced,Counseling/Mental Health Services,40,Female,,No
+48,self employed,16,Divorced,Healthcare/Medical Services,99,Male,,
+25,private,16,Never married,Production/Assembly,50,Male,,
+43,private,21,Wife,Office/Administrative Support,40,Female,,No
+25,private,21,Never married,Healthcare/Medical Services,40,Female,,No
+78,self employed,22,Widowed,Management/Business,50,Female,,
+56,private,21,Husband,"Science, Engineering, Technology",40,Male,,
+23,self employed,16,Never married,Management/Business,80,Male,,
+37,self employed,21,Never married,Entertainment,60,Male,,
+35,private,21,Husband,Education,40,Male,1.0,
+41,private,16,Wife,Sales,60,Female,,No
+28,private,21,Never married,Service/Hospitality,40,Female,,No
+57,private,19,Husband,"Science, Engineering, Technology",40,Male,,
+52,private,21,Husband,Management/Business,60,Male,1.0,
+27,private,24,Wife,Healthcare/Medical Services,40,Female,,No
+56,self employed,22,Husband,Management/Business,50,Male,,
+56,private,19,Husband,Management/Business,48,Male,,
+41,private,21,Husband,Sales,60,Male,,
+55,private,16,Husband,Service/Hospitality,50,Male,,
+34,private,19,Husband,Repair/Maintenance,50,Male,,
+47,governmental,21,Husband,Finance/Accounting,40,Male,,
+25,private,18,Husband,Repair/Maintenance,50,Male,,
+48,governmental,22,Husband,Military Services,58,Male,,
+34,governmental,23,Wife,Legal Services,40,Female,,No
+47,private,20,Widowed,Office/Administrative Support,40,Female,,No
+47,private,21,Widowed,Office/Administrative Support,30,Female,,No
+52,private,22,Husband,"Science, Engineering, Technology",62,Male,1.0,
+25,private,21,Never married,"Science, Engineering, Technology",60,Male,,
+47,governmental,24,Divorced,Education,50,Male,,
+44,private,19,Wife,Sales,50,Female,,No
+63,governmental,19,Husband,Office/Administrative Support,45,Male,,
+67,private,21,Husband,"Science, Engineering, Technology",60,Male,,
+32,private,18,Husband,Management/Business,55,Male,,
+52,private,19,Husband,Production/Assembly,50,Male,,
+62,governmental,21,Husband,Education,40,Male,,
+64,governmental,21,Husband,"Science, Engineering, Technology",50,Male,,
+77,self employed,19,Wife,Sales,60,Female,,
+42,private,24,Husband,Healthcare/Medical Services,50,Male,,
+46,private,20,Wife,Management/Business,45,Female,,No
+72,private,18,Husband,"Science, Engineering, Technology",50,Male,2.0,
+45,private,21,Widowed,Office/Administrative Support,40,Male,,
+37,private,21,Wife,"Science, Engineering, Technology",40,Female,,No
+19,private,16,Never married,Service/Hospitality,48,Male,,
+75,private,21,Wife,Office/Administrative Support,22,Female,,
+32,governmental,22,Never married,"Science, Engineering, Technology",40,Female,,No
+26,governmental,22,Never married,Education,40,Female,,No
+41,governmental,19,Husband,Protective Services,60,Male,,
+42,private,21,Husband,"Science, Engineering, Technology",40,Male,,
+62,private,14,Wife,Production/Assembly,52,Female,1.0,
+39,private,21,Wife,Transport,40,Female,,No
+45,private,18,Husband,Production/Assembly,54,Male,,
+54,private,22,Divorced,Healthcare/Medical Services,40,Female,2.0,
+31,governmental,20,Wife,Office/Administrative Support,40,Female,,No
+37,private,21,Husband,Management/Business,60,Male,,
+42,private,21,Husband,Sales,45,Male,,
+49,private,20,Husband,Sales,50,Male,,
+29,private,21,Wife,Healthcare/Medical Services,40,Female,,No
+45,private,21,Husband,Management/Business,45,Male,,
+29,private,21,Wife,"Science, Engineering, Technology",40,Female,,No
+61,private,21,Husband,Counseling/Mental Health Services,40,Male,,
+47,private,20,Husband,Management/Business,40,Male,,
+60,private,21,Divorced,Management/Business,40,Female,,
+43,governmental,18,Wife,Office/Administrative Support,16,Female,,No
+50,private,16,Wife,Service/Hospitality,40,Female,,No
+32,private,16,Wife,Service/Hospitality,25,Female,,No
+45,private,16,Husband,Production/Assembly,50,Male,,
+55,private,16,Wife,Office/Administrative Support,60,Female,,
+35,private,20,Wife,Office/Administrative Support,40,Female,2.0,No
+36,governmental,22,Husband,Education,60,Male,,
+46,private,21,Divorced,Sales,50,Male,,
+57,private,21,Husband,Service/Hospitality,40,Male,,
+45,private,19,Husband,"Science, Engineering, Technology",50,Male,,
+49,private,19,Wife,Management/Business,70,Female,,No
+68,private,21,Husband,Management/Business,40,Male,,
+54,governmental,20,Wife,"Science, Engineering, Technology",45,Female,,
+30,private,1,Divorced,Construction/Extraction,50,Male,,
+30,private,22,Husband,Counseling/Mental Health Services,50,Male,,
+42,private,16,Never married,Construction/Extraction,50,Male,,
+29,private,21,Husband,Service/Hospitality,20,Male,,
+53,self employed,16,Husband,Management/Business,50,Male,,
+27,private,22,Husband,Counseling/Mental Health Services,40,Male,,
+69,private,21,Husband,"Science, Engineering, Technology",45,Male,,
+55,self employed,24,Husband,Healthcare/Medical Services,47,Male,1.0,
+26,private,22,Never married,Education,40,Female,,No
+28,governmental,21,Wife,Education,40,Female,,No
+41,private,19,Husband,Sales,50,Male,,
+25,private,19,Never married,Office/Administrative Support,65,Male,,
+33,private,21,Never married,Education,40,Male,,
+38,governmental,22,Wife,Education,50,Female,,No
+29,private,12,Never married,Service/Hospitality,67,Female,,No
+60,governmental,21,Wife,Management/Business,40,Female,,
+69,private,19,Divorced,Healthcare/Medical Services,25,Male,,
+58,private,21,Husband,"Science, Engineering, Technology",40,Male,,
+56,governmental,22,Divorced,Education,50,Female,,
+66,private,20,Widowed,Management/Business,45,Female,,
+31,private,21,Husband,Management/Business,45,Male,,
+43,private,19,Husband,Sales,55,Male,,
+51,private,22,Husband,Management/Business,50,Male,1.0,
+39,governmental,22,Wife,Education,40,Female,,No
+67,private,16,Husband,Sales,60,Male,,
+52,private,19,Husband,Sales,50,Male,1.0,
+48,private,21,Husband,Management/Business,50,Male,,
+49,private,19,Husband,Transport,45,Male,,
+48,self employed,21,Husband,Transport,30,Male,,
+52,private,20,Wife,Healthcare/Medical Services,40,Female,,
+26,private,21,Husband,Sales,45,Male,,
+73,private,19,Divorced,Office/Administrative Support,45,Male,,
+34,private,22,Wife,Management/Business,50,Female,,No
+34,private,20,Husband,Repair/Maintenance,45,Male,,
+64,self employed,23,Husband,Healthcare/Medical Services,50,Male,,
+42,private,22,Divorced,Counseling/Mental Health Services,40,Male,,
+52,private,24,Divorced,Healthcare/Medical Services,40,Female,,
+35,private,20,Divorced,Healthcare/Medical Services,48,Male,,
+59,private,21,Divorced,Office/Administrative Support,40,Male,,
+62,governmental,22,Husband,Education,20,Male,,
+25,private,21,Never married,Education,25,Male,,
+70,private,22,Wife,Office/Administrative Support,10,Female,,
+25,governmental,18,Husband,"Science, Engineering, Technology",50,Male,,
+45,private,24,Wife,Healthcare/Medical Services,50,Female,1.0,No
+57,governmental,22,Wife,Education,20,Female,,
+30,private,21,Husband,Sales,50,Male,,
+65,governmental,22,Never married,Healthcare/Medical Services,40,Female,,
+24,private,21,Never married,Entertainment,40,Female,,No
+51,private,22,Widowed,Management/Business,50,Male,,
+46,private,18,Never married,Production/Assembly,45,Male,,
+29,private,19,Never married,Sales,50,Male,,
+40,private,18,Never married,Sales,50,Female,,No
+74,private,24,Husband,Education,50,Male,,
+48,self employed,21,Husband,Sales,75,Male,,
+38,private,20,Wife,Production/Assembly,40,Female,,No
+58,private,23,Husband,Legal Services,40,Male,,
+49,private,21,Husband,Management/Business,60,Male,3.0,
+43,private,21,Wife,Management/Business,40,Female,,No
+44,private,21,Husband,Management/Business,40,Male,,
+52,private,19,Husband,Production/Assembly,52,Male,,
+38,private,16,Wife,Transport,40,Female,,No
+48,private,16,Wife,Production/Assembly,45,Female,,No
+35,self employed,16,Never married,Transport,45,Male,,
+19,private,16,Never married,Repair/Maintenance,50,Male,,
+46,private,1,Widowed,Service/Hospitality,33,Female,,No
+36,private,22,Divorced,Management/Business,25,Male,,
+67,private,20,Husband,Sales,50,Male,,
+70,private,22,Husband,"Science, Engineering, Technology",45,Male,,
+21,governmental,19,Never married,Protective Services,65,Male,,
+55,self employed,19,Husband,Sales,30,Male,,
+44,private,21,Never married,Office/Administrative Support,40,Female,,No
+48,private,20,Divorced,Healthcare/Medical Services,45,Female,,No
+29,private,19,Never married,Production/Assembly,60,Female,,No
+24,private,22,Never married,Education,40,Female,,No
+57,private,21,Husband,Repair/Maintenance,40,Male,1.0,
+62,private,22,Wife,Counseling/Mental Health Services,60,Female,,
+62,private,22,Husband,Counseling/Mental Health Services,32,Male,,
+44,governmental,21,Husband,Military Services,40,Male,,
+25,governmental,21,Husband,Military Services,60,Male,,
+40,private,23,Husband,Legal Services,45,Male,,
+67,self employed,19,Wife,Management/Business,50,Female,,
+55,self employed,13,Divorced,Service/Hospitality,55,Male,,
+46,private,21,Wife,Office/Administrative Support,44,Female,,No
+51,self employed,16,Divorced,Production/Assembly,45,Female,,
+57,private,19,Divorced,Transport,70,Female,,
+64,private,23,Separated,Healthcare/Medical Services,79,Male,,
+61,private,21,Never married,Sales,45,Male,,
+38,governmental,21,Husband,Transport,14,Male,,
+59,self employed,19,Widowed,Transport,50,Male,,
+54,private,22,Husband,Management/Business,48,Male,,
+37,governmental,22,Wife,Healthcare/Medical Services,30,Female,,No
+42,private,22,Wife,Counseling/Mental Health Services,40,Female,,No
+56,private,22,Divorced,"Science, Engineering, Technology",40,Male,,
+25,private,16,Husband,Repair/Maintenance,55,Male,,
+67,self employed,21,Wife,Office/Administrative Support,8,Female,,
+52,private,19,Husband,Repair/Maintenance,40,Male,,
+45,private,21,Husband,Management/Business,40,Male,,
+51,private,22,Wife,"Science, Engineering, Technology",40,Female,,
+49,governmental,16,Wife,Office/Administrative Support,46,Female,,No
+42,private,22,Never married,"Science, Engineering, Technology",40,Male,,
+48,governmental,22,Wife,Education,4,Female,1.0,No
+23,private,17,Never married,Construction/Extraction,50,Male,,
+58,private,16,Husband,Service/Hospitality,55,Male,,
+53,private,18,Husband,Repair/Maintenance,40,Male,,
+41,governmental,21,Wife,Healthcare/Medical Services,40,Female,,No
+28,private,21,Never married,Service/Hospitality,30,Female,,No
+66,private,21,Never married,Sales,50,Female,,
+26,private,21,Never married,Repair/Maintenance,40,Male,,
+43,private,11,Husband,Production/Assembly,40,Male,,
+72,private,21,Divorced,Office/Administrative Support,20,Female,,
+45,governmental,21,Divorced,Service/Hospitality,8,Female,,No
+33,private,21,Husband,Management/Business,60,Male,,
+35,private,19,Husband,Construction/Extraction,50,Male,,
+52,self employed,24,Husband,Healthcare/Medical Services,60,Male,,
+48,self employed,16,Husband,Management/Business,60,Male,,
+42,private,17,Divorced,Protective Services,74,Male,,
+26,self employed,21,Wife,Entertainment,8,Female,,Yes
+45,governmental,21,Wife,Education,40,Female,,No
+27,self employed,21,Never married,Sales,50,Male,,
+56,self employed,20,Husband,Service/Hospitality,50,Male,,
+71,governmental,22,Husband,Counseling/Mental Health Services,40,Male,,
+59,self employed,23,Wife,Healthcare/Medical Services,70,Female,1.0,
+21,private,19,Never married,Transport,55,Male,,
+40,private,21,Wife,Sales,50,Female,,No
+54,governmental,16,Widowed,Management/Business,40,Male,,
+40,private,21,Never married,Healthcare/Medical Services,50,Female,,No
+39,private,21,Never married,Management/Business,45,Male,,
+55,private,16,Wife,Management/Business,45,Female,,
+62,governmental,16,Wife,Service/Hospitality,40,Female,,
+46,private,21,Never married,Production/Assembly,40,Male,,
+36,private,22,Never married,Management/Business,56,Male,2.0,
+60,private,23,Husband,Management/Business,40,Male,,
+67,private,22,Husband,"Science, Engineering, Technology",50,Male,,
+54,governmental,22,Wife,Management/Business,55,Female,,
+23,private,21,Wife,Office/Administrative Support,42,Female,,No
+57,self employed,16,Divorced,Management/Business,50,Male,,
+21,private,19,Wife,Sales,25,Female,,No
+60,private,21,Husband,Transport,40,Male,,
+66,private,16,Husband,Transport,55,Male,,
+60,private,16,Separated,Management/Business,45,Female,,
+42,private,16,Husband,Transport,50,Male,,
+33,private,20,Husband,Construction/Extraction,48,Male,,
+54,private,20,Wife,Management/Business,45,Female,,
+43,governmental,22,Wife,Education,45,Female,1.0,No
+55,private,21,Husband,"Science, Engineering, Technology",40,Male,2.0,
+59,private,16,Husband,Management/Business,50,Male,,
+67,private,20,Husband,Management/Business,45,Male,,
+46,governmental,21,Husband,"Science, Engineering, Technology",40,Male,,
+39,governmental,21,Husband,Transport,45,Male,,
+29,private,22,Husband,Management/Business,50,Male,,
+55,self employed,22,Husband,Management/Business,50,Male,,
+37,private,18,Wife,Office/Administrative Support,40,Female,,No
+22,private,16,Never married,Sales,58,Male,,
+55,private,21,Never married,Sales,52,Male,,
+66,private,17,Husband,Transport,50,Male,,
+42,private,20,Husband,Production/Assembly,60,Male,,
+40,private,16,Divorced,Management/Business,65,Male,,
+54,self employed,15,Husband,Repair/Maintenance,60,Male,,
+70,private,22,Husband,"Science, Engineering, Technology",45,Male,,
+32,governmental,21,Wife,Education,20,Female,,No
+25,governmental,21,Husband,Transport,60,Male,,
+55,private,16,Never married,Transport,40,Male,,
+27,private,22,Husband,Healthcare/Medical Services,43,Male,,
+55,private,21,Husband,Entertainment,55,Male,,
+45,private,22,Wife,Entertainment,20,Female,,No
+22,governmental,21,Never married,"Science, Engineering, Technology",50,Female,,No
+41,private,17,Husband,Production/Assembly,80,Male,,
+58,private,21,Wife,Office/Administrative Support,50,Female,,
+55,private,21,Never married,"Science, Engineering, Technology",46,Male,,
+28,governmental,22,Wife,Office/Administrative Support,45,Female,,No
+31,private,22,Wife,Education,40,Female,,No
+26,self employed,16,Never married,Management/Business,70,Male,,
+35,private,21,Wife,Office/Administrative Support,8,Female,,Yes
+45,private,24,Wife,"Science, Engineering, Technology",40,Female,1.0,No
+56,private,16,Wife,Transport,40,Female,,
+58,private,21,Husband,Production/Assembly,60,Male,,
+59,self employed,23,Wife,Legal Services,5,Female,,
+32,private,21,Wife,Healthcare/Medical Services,40,Female,,No
+36,governmental,22,Divorced,"Science, Engineering, Technology",40,Female,,No
+46,governmental,22,Husband,Management/Business,50,Male,,
+24,private,21,Never married,Sales,30,Male,,
+42,governmental,13,Never married,Production/Assembly,40,Male,,
+40,private,23,Husband,Legal Services,50,Male,,
+32,private,20,Never married,Sales,60,Male,,
+23,governmental,21,Never married,Education,45,Female,,No
+35,private,19,Husband,Repair/Maintenance,40,Male,,
+36,governmental,22,Wife,Education,50,Female,,Yes
+60,private,16,Divorced,Transport,84,Male,,
+74,governmental,23,Widowed,Education,40,Female,,
+24,governmental,21,Never married,Office/Administrative Support,32,Female,,No
+28,governmental,21,Wife,Education,50,Female,,No
+39,private,18,Husband,Production/Assembly,80,Male,,
+39,self employed,22,Husband,Sales,50,Male,,
+51,private,19,Divorced,"Science, Engineering, Technology",45,Female,,
+23,private,14,Never married,Transport,50,Male,,
+36,governmental,22,Divorced,Counseling/Mental Health Services,40,Female,,No
+47,private,21,Husband,"Science, Engineering, Technology",48,Male,,
+25,private,20,Wife,Healthcare/Medical Services,56,Female,,No
+28,private,21,Wife,Healthcare/Medical Services,40,Female,,No
+72,private,22,Husband,Service/Hospitality,40,Male,,
+22,private,21,Never married,Service/Hospitality,32,Female,,No
+33,private,22,Wife,Healthcare/Medical Services,40,Female,,No
+42,private,13,Divorced,Transport,60,Male,,
+46,private,16,Husband,Office/Administrative Support,45,Male,,
+40,private,23,Husband,Management/Business,50,Male,,
+37,governmental,21,Never married,Office/Administrative Support,40,Female,,No
+20,private,19,Never married,Sales,8,Female,,No
+51,governmental,16,Husband,Protective Services,56,Male,,
+51,private,16,Wife,Production/Assembly,50,Female,,
+34,private,22,Husband,Finance/Accounting,45,Male,,
+36,private,21,Husband,Management/Business,80,Male,,
+51,governmental,21,Husband,Education,40,Male,,
+24,private,18,Never married,Entertainment,40,Female,,No
+39,private,21,Wife,Counseling/Mental Health Services,40,Female,,No
+59,private,19,Widowed,Production/Assembly,60,Female,,
+54,private,19,Husband,Sales,50,Male,,
+58,private,19,Wife,Sales,40,Female,,
+71,private,23,Husband,Healthcare/Medical Services,50,Male,,
+28,private,11,Husband,Transport,55,Male,,
+68,private,21,Husband,"Science, Engineering, Technology",50,Male,,
+57,private,22,Wife,Healthcare/Medical Services,50,Female,,
+76,private,21,Divorced,Entertainment,18,Female,,
+49,private,23,Divorced,Production/Assembly,40,Male,,
+24,private,21,Never married,"Science, Engineering, Technology",40,Female,,No
+40,private,19,Husband,Production/Assembly,45,Male,,
+47,private,23,Wife,Education,50,Female,,No
+34,private,17,Husband,Repair/Maintenance,40,Male,2.0,
+44,private,21,Wife,Management/Business,50,Female,,No
+52,private,18,Never married,Transport,60,Male,,
+58,private,21,Divorced,Repair/Maintenance,48,Male,,
+50,self employed,21,Wife,Service/Hospitality,30,Female,2.0,No
+40,private,21,Husband,Management/Business,50,Male,,
+44,governmental,24,Husband,Protective Services,40,Male,,
+62,private,20,Divorced,Service/Hospitality,40,Female,,
+57,private,21,Husband,Management/Business,40,Male,,
+61,governmental,21,Divorced,Healthcare/Medical Services,42,Female,2.0,
+50,private,24,Husband,Education,50,Male,1.0,
+25,private,21,Never married,"Science, Engineering, Technology",48,Male,,
+24,private,12,Never married,Production/Assembly,40,Female,,No
+41,governmental,19,Divorced,"Farming, Fishing, Forestry",50,Female,,No
+33,private,21,Husband,Management/Business,40,Male,,
+38,private,16,Husband,Construction/Extraction,52,Male,,
+42,private,22,Never married,"Science, Engineering, Technology",40,Male,,
+27,private,21,Never married,Education,40,Female,,No
+49,private,21,Husband,Management/Business,45,Male,1.0,
+52,governmental,16,Husband,Production/Assembly,40,Male,,
+51,private,20,Wife,Office/Administrative Support,40,Female,,
+60,private,21,Husband,Sales,44,Male,,
+61,private,21,Wife,Sales,50,Female,,
+57,private,21,Husband,Management/Business,45,Male,,
+46,private,21,Husband,Management/Business,45,Male,,
+65,private,22,Wife,"Science, Engineering, Technology",10,Female,,
+54,private,22,Husband,Sales,60,Male,,
+25,private,16,Never married,Sales,45,Female,,No
+34,private,21,Wife,Healthcare/Medical Services,40,Female,,No
+34,private,19,Never married,Production/Assembly,48,Male,,
+41,private,22,Wife,Healthcare/Medical Services,40,Female,,No
+58,private,16,Separated,Sales,58,Male,,
+78,private,22,Widowed,Office/Administrative Support,40,Female,,
+53,private,21,Husband,Management/Business,40,Male,,
+40,private,21,Wife,Finance/Accounting,28,Female,,No
+49,private,20,Widowed,Management/Business,50,Female,,No
+68,self employed,24,Husband,Sales,50,Male,,
+45,private,21,Never married,"Science, Engineering, Technology",50,Male,,
+58,governmental,22,Wife,Education,45,Female,,
+35,private,23,Divorced,Sales,40,Female,,No
+55,private,22,Wife,Healthcare/Medical Services,60,Female,,
+69,private,21,Husband,Sales,48,Male,,
+27,private,20,Never married,Office/Administrative Support,48,Male,,
+35,private,21,Husband,Management/Business,50,Male,,
+62,governmental,21,Husband,"Science, Engineering, Technology",50,Male,,
+30,governmental,21,Husband,Management/Business,50,Male,,
+37,private,21,Divorced,Finance/Accounting,50,Female,,No
+59,private,16,Wife,Office/Administrative Support,40,Female,,
+28,governmental,22,Wife,Education,3,Female,,Yes
+36,private,20,Divorced,Office/Administrative Support,48,Female,,No
+53,governmental,21,Wife,Education,45,Female,,
+67,private,21,Wife,Office/Administrative Support,40,Female,,
+35,self employed,18,Husband,Sales,60,Male,,
+40,private,20,Husband,"Science, Engineering, Technology",50,Male,,
+45,governmental,23,Wife,Office/Administrative Support,40,Female,,No
+41,governmental,21,Never married,Healthcare/Medical Services,40,Female,,No
+30,governmental,22,Husband,Healthcare/Medical Services,50,Male,,
+84,governmental,18,Husband,Service/Hospitality,40,Male,,
+46,private,21,Husband,"Science, Engineering, Technology",40,Male,,
+26,governmental,22,Never married,Healthcare/Medical Services,40,Female,,No
+25,governmental,21,Never married,Education,35,Female,,No
+37,private,21,Husband,Entertainment,40,Male,,
+45,self employed,16,Husband,Sales,50,Male,,
+52,self employed,21,Husband,Management/Business,60,Male,,
+47,governmental,24,Wife,Education,30,Female,,Yes
+30,private,21,Wife,"Science, Engineering, Technology",40,Female,,No
+57,governmental,20,Wife,Transport,15,Female,,
+38,private,22,Husband,Sales,50,Male,,
+30,governmental,18,Husband,Transport,50,Male,,
+52,private,16,Divorced,Transport,50,Male,,
+51,private,20,Divorced,Office/Administrative Support,60,Female,,
+32,private,23,Husband,Legal Services,45,Male,,
+19,self employed,20,Never married,Education,8,Male,1.0,
+27,governmental,21,Never married,"Science, Engineering, Technology",50,Female,,No
+55,private,21,Husband,Management/Business,50,Male,,
+39,private,1,Wife,Transport,40,Female,1.0,No
+48,private,22,Husband,Management/Business,50,Male,,
+38,self employed,21,Husband,Service/Hospitality,50,Male,,
+47,private,21,Husband,Sales,40,Male,,
+53,self employed,23,Husband,Healthcare/Medical Services,65,Male,,
+32,private,22,Husband,"Science, Engineering, Technology",40,Male,,
+68,private,20,Wife,Sales,40,Female,,
+31,governmental,21,Husband,Healthcare/Medical Services,45,Male,,
+57,governmental,22,Wife,Healthcare/Medical Services,28,Female,,
+32,governmental,19,Husband,"Science, Engineering, Technology",40,Male,,
+57,governmental,19,Husband,Protective Services,50,Male,,
+41,private,14,Husband,Production/Assembly,40,Male,,
+59,self employed,21,Divorced,Transport,12,Male,,
+35,governmental,22,Wife,Education,60,Female,,Yes
+72,private,21,Husband,Office/Administrative Support,12,Male,,
+29,governmental,23,Never married,Healthcare/Medical Services,70,Male,,
+60,private,20,Divorced,Service/Hospitality,40,Female,,
+24,private,21,Husband,Management/Business,38,Male,,
+39,self employed,20,Divorced,"Science, Engineering, Technology",45,Male,,
+30,private,24,Husband,Management/Business,50,Male,,
+44,private,21,Divorced,Management/Business,40,Female,,No
+54,private,19,Divorced,"Farming, Fishing, Forestry",38,Female,,
+66,governmental,20,Divorced,Office/Administrative Support,50,Female,,
+36,private,17,Husband,Construction/Extraction,84,Male,,
+22,governmental,20,Never married,Office/Administrative Support,20,Male,,
+56,private,21,Husband,"Science, Engineering, Technology",40,Male,1.0,
+60,governmental,24,Divorced,Education,55,Male,,
+65,private,21,Husband,Management/Business,40,Male,,
+49,governmental,21,Husband,Education,50,Male,,
+25,private,21,Husband,Production/Assembly,50,Male,,
+46,private,21,Husband,Management/Business,45,Male,,
+43,private,21,Wife,Sales,60,Female,,No
+36,governmental,22,Husband,"Science, Engineering, Technology",45,Male,,
