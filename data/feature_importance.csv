@@ -1,0 +1,37 @@
+feature,importance
+education,0.22632164308949881
+age,0.16204845179040042
+marital status_Husband,0.13746836018686928
+workinghours,0.12593123897102976
+marital status_Never married,0.07141042281054222
+occupation_Management/Business,0.04980186358123493
+occupation_Service/Hospitality,0.04409843249265894
+"occupation_Science, Engineering, Technology",0.030763937976497936
+sex_Male,0.02693443445877339
+sex_Female,0.02632795608418072
+occupation_Construction/Extraction,0.010995161232712786
+marital status_Wife,0.008201158367886355
+occupation_Healthcare/Medical Services,0.007586863110624032
+occupation_Production/Assembly,0.00752023203918961
+marital status_Divorced,0.007410450505701663
+workclass_private,0.00706818013587234
+occupation_Transport,0.006558074278170916
+workclass_governmental,0.00588325231005318
+occupation_Office/Administrative Support,0.005722662084437632
+occupation_Education,0.005153816511319553
+occupation_Repair/Maintenance,0.005139856627234984
+occupation_Finance/Accounting,0.004417236966181749
+workclass_self employed,0.0038723347734380647
+occupation_Sales,0.00354598901169832
+ability to speak english,0.00284883009658151
+occupation_Counseling/Mental Health Services,0.0021047289090996364
+marital status_Widowed,0.001617281175341087
+marital status_Separated,0.0011608715920177523
+occupation_Legal Services,0.0008388442427198431
+occupation_Protective Services,0.0005420365215651498
+gave birth this year_Yes,0.00026166605874761373
+gave birth this year_No,0.00023430840818488687
+occupation_Entertainment,0.0001263149175723588
+"occupation_Farming, Fishing, Forestry",6.0458599166878936e-05
+occupation_Military Services,2.26500827957557e-05
+workclass_no paid work,0.0
